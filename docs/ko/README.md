@@ -45,9 +45,9 @@ Kitchen Crisis의 모든 모드는 게임이 설치된 폴더의 mods/ 하위에
 
 ## Guides
 
-- [에셋 관리](/asset.md)
-- [스크립트](/script.md)
-- [렌더링](/rendering.md)
-- [UI](/ui.md)
-- [컨텐츠 확장](/contents.md)
-- [Script API List](/api.md)
+- [에셋 관리](asset.md)
+- [스크립트](script.md)
+- [렌더링](rendering.md)
+- [UI](ui.md)
+- [컨텐츠 확장](contents.md)
+- [Script API List](api.md)
