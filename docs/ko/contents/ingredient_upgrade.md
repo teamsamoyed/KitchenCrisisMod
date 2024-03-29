@@ -1,7 +1,7 @@
 
 ## 재료 강화
 
-게임 내에서 추가할 재료 강화의 unique ID를 `CustomIngredientUpgrade` 라고 합시다. 재료 강화를 추가하기 위해서는 아래의 파일들이 필요합니다.
+게임에 추가할 재료 강화의 unique ID를 `CustomIngredientUpgrade` 라고 합시다. 재료 강화를 추가하기 위해서는 아래의 파일들이 필요합니다.
 - `assets/settings/ingredient_upgrade.json` : 재료 강화와 관련한 수치 정보를 기록합니다. json 파일의 양식은 아래에서 다시 설명합니다.
 - `assets/settings/i18n.json` : 게임 내에서 나올 재료 강화의 이름, 설명 정보입니다. 양식은 아래에서 다시 설명합니다.
 

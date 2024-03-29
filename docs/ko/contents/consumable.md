@@ -1,7 +1,7 @@
 
 ## 소모품
 
-게임 내에서 추가할 소모품의 unique ID를 `CustomConsumable` 이라고 합시다. 소모품을 추가하기 위해서는 아래의 파일들이 필요합니다.
+게임에 추가할 소모품의 unique ID를 `CustomConsumable` 이라고 합시다. 소모품을 추가하기 위해서는 아래의 파일들이 필요합니다.
 
 - `assets/sprites/consumable/CustomConsumable.png` : 해당 소모품의 인게임 아이콘 이미지입니다. 16x16 사이즈의 png 이미지여야합니다.
 - `assets/settings/consumable.json` : 소모품과 관련한 수치 정보를 기록합니다. json 파일의 양식은 아래에서 다시 설명합니다.

@@ -1,7 +1,7 @@
 
 ## 재료
 
-게임 내에서 추가할 재료의 unique ID 를 `CustomIngredient`라고 합시다. 재료를 추가하기 위해서는 아래의 파일들이 필요합니다.
+게임에 추가할 재료의 unique ID 를 `CustomIngredient`라고 합시다. 재료를 추가하기 위해서는 아래의 파일들이 필요합니다.
 
 - `assets/sprites/food/CustomIngredient.png` : 해당 재료의 인게임 아이콘 이미지입니다. 16x16 사이즈의 png 이미지여야합니다.
 - `assets/settings/i18n.json` : 게임 내에서 나올 재료의 이름, 설명 정보입니다. 양식은 아래에서 다시 설명합니다.

@@ -1,6 +1,6 @@
 ## 보물
 
-게임 내에서 추가할 유물의 unique ID를 `CustomRelic` 이라고 합시다. 보물을 추가하기 위해서는 아래의 파일들이 필요합니다.
+게임에 추가할 보물의 unique ID를 `CustomRelic` 이라고 합시다. 보물을 추가하기 위해서는 아래의 파일들이 필요합니다.
 
 - `assets/sprites/relics/CustomRelic.png` : 해당 보물의 인게임 아이콘 이미지입니다. 16x16 사이즈의 png 이미지여야합니다.
 - `assets/settings/relic.json` : 보물과 관련한 수치 정보를 기록합니다. json 파일의 양식은 아래에서 다시 설명합니다.
