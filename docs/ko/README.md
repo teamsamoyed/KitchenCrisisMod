@@ -17,20 +17,20 @@ Kitchen Crisis의 모든 모드는 게임이 설치된 폴더의 mods/ 하위에
 ```json
 {
   "name": "test",
-	"i18n_name": {
-		"en": "test",
-		"ko": "테스트"
-	},
-	"description": {
-		"en": "test mod",
-		"ko": "모드 설명"
-	},
-	"author": "kitchen crisis",
-	"version": "0.1.0",
-	"enabled": true,
-	"dependency": {
-		"test2": "0.2.0"
-	}
+  "i18n_name": {
+    "en": "test",
+    "ko": "테스트"
+  },
+  "description": {
+    "en": "test mod",
+    "ko": "모드 설명"
+  },
+  "author": "kitchen crisis",
+  "version": "0.1.0",
+  "enabled": true,
+  "dependency": {
+    "test2": "0.2.0"
+  }
 }
 ```
 
