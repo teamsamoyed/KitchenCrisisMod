@@ -28,6 +28,34 @@ kitchen_crisis.i18n_bind(key, map)
 
 ## session
 
+인게임 정보를 관리하는 API 테이블입니다.
+
+```lua
+kitchen_crisis.session.add_limited_object(name, count)
+-- name: String
+-- count: int
+```
+
+`name` 요리 도구를 `count` 개 추가로 사용할 수 있게 합니다.
+
+```lua
+kitchen_crisis.session.gold
+```
+
+```lua
+kitchen_crisis.session.add_gold
+```
+
+```lua
+kitchen_crisis.session.tool_upgrade_level
+```
+
+### event
+
+### event_value
+
+### map
+
 ## character
 
 ## consumable
