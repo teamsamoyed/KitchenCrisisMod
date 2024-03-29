@@ -17,12 +17,27 @@
       "desc": {
         "CustomIngredient": "CustomIngredient Desc",
       }
+    },
+    "unlock": {
+      "ingredient": {
+        "CustomIngredient": "unlock"
+      }
     }
   } 
 }
 ```
 
-위와 같은 형태로 각 소모품의 이름 / 설명을 기록할 수 있습니다. 한 모드에서 여러 개의 재료를 추가할 경우 각 재료의 unique ID를 키값으로, `lang/ingredient/key`, `lang/ingredient/desc/key` 아래에 필요한 내용을 추가하면 됩니다.
+위와 같은 형태로 각 재료의 이름 / 설명, 해금 조건을 기록할 수 있습니다. 한 모드에서 여러 개의 재료를 추가할 경우 각 재료의 unique ID를 키값으로, `lang/ingredient/key`, `lang/ingredient/desc/key`, `lang/unlock/ingredient/key` 아래에 필요한 내용을 추가하면 됩니다.
+
+### Scripting
+
+추가한 재료는 해금을 해야만 사용할 수 있습니다. 재료가 해금되지 않은 경우, 해당 재료를 사용하는 레시피는 게임 내에서 등장하지 않습니다.
+
+```lua
+kitchen_crisis.save_data.unlock_ingredient("CustomIngredient");
+```
+
+위 코드를 이용해 재료를 해금할 수 있습니다.
 
 ## 레시피
 
