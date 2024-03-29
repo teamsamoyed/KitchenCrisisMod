@@ -1,5 +1,9 @@
 
-# Introduction
+# Guide
+
+Kitchen crisis에서는 모딩을 통해 게임 내에 등장하는 대부분의 컨텐츠를 수정하고 확장할 수 있습니다.
+
+## Custom Mod
 
 Kitchen Crisis의 모든 모드는 게임이 설치된 폴더의 mods/ 하위에 들어가게 됩니다. mods/base는 게임의 기본 에셋을 저장하는 모드입니다.
 
@@ -37,7 +41,7 @@ Kitchen Crisis의 모든 모드는 게임이 설치된 폴더의 mods/ 하위에
   - jp : 일본어
   - zh-chs : 중국어 간체
   - zh-cht : 중국어 번체
-- description : 게임 내부의 모드 관리 창에서 보이는 모드 설명 텍스트입니다. 마찬가지로 국가 코드에 맞춰 값을 설정합니다.
+- description : 게임 내부의 모드 관리 창에서 보이는 모드 설명 텍스트입니다. 마찬가지로 국가 코드에 맞춰 값을 설정합니다. 설정되어 있지 않을 경우 'en' 키에 따라 영어로 표시하므로 영어 설명은 반드시 존재해야 합니다.
 - author : 모드 작성자 정보입니다.
 - version : 모드 버전입니다.
 - enabled : false인 경우 게임 실행시 해당 모드를 불러오지 않습니다.
@@ -45,7 +49,7 @@ Kitchen Crisis의 모든 모드는 게임이 설치된 폴더의 mods/ 하위에
 
 ## 에셋 관리
 
-Kitchen Crisis의 모드 시스템에서, 각 에셋은 `mod/(mod name)/assets/` 를 기준으로 한 상대 경로로 참조됩니다. 즉, 모드의 이름을 구분하지 않고 에 셋을 읽습니다. 이를 이용해서 base 내부에 존재하는 기본 에셋 혹은 다른 모드의 에셋을 바꿔치기 할 수 있습니다.
+Kitchen Crisis의 모드 시스템에서, 각 에셋은 `mod/(mod name)/assets/` 를 기준으로 한 상대 경로로 참조됩니다. 즉, 모드의 이름을 구분하지 않고 에셋을 읽습니다. 이를 이용해서 base 내부에 존재하는 기본 에셋 혹은 다른 모드의 에셋을 바꿔치기 할 수 있습니다.
 
 예를 들어, kitchen crisis에서 도마의 이미지는 `sprites/map_object/board.png` 라는 경로로 참조합니다. 기본적으로 이 파일은 `mods/base/assets/sprites/map_object/board.png`에 위치해 있습니다. 만약 새로운 모드 `mod1` 을 만들어, 해당 모드가 `mod/mod1/assets/sprites/map_object/board.png` 위치에 이미지 파일을 포함하게 만든다면 도마의 이미지는 `mod1` 하위에 있는 도마 이미지로 덮어씌워집니다.
 
@@ -55,6 +59,8 @@ kitchen crisis에서 각 에셋은 확장자를 기반으로 구분합니다. ki
 - .anim : 스프라이트 시트로부터 애니메이션을 재생하는 방식을 정의하는 파일입니다. 스프라이트 시트와 동일한 파일명을 가져야합니다. anim 파일의 포맷은 aseprite에서 애니메이션을 Array 방식으로 export한 것과 동일한 양식을 가집니다.
 - .wav : 사운드 파일입니다.
 - .map : 맵 정보를 저장합니다.
+
+키친 크라이시스 게임의 기본 내장 에셋 목록은 [Assets](assets.md)에서 확인할 수 있습니다.
 
 ### Settings
 
@@ -78,3 +84,7 @@ kitchen crisis에서 각 에셋은 확장자를 기반으로 구분합니다. ki
 ## Scripts
 
 lua로 작성된 스크립트를 이용하여 게임 로직을 확장할 수 있습니다. 스크립트를 작성하는 방법에 대한 자세한 내용은 [스크립트](script.md)에서 확인할 수 있습니다.
+
+## Upload
+
+제작한 모드를 스팀 창작 마당에 업로드하는 과정에 대해서는 [모드 업로드](upload.md) 문서를 참조해주세요.
