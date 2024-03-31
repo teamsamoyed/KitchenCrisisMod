@@ -1,39 +1,31 @@
 # API
 
-모드에서 사용할 수 있는 전체 API 목록입니다
+모드에서 사용할 수 있는 전체 API 목록입니다. 편의상, 넘겨 받는 인자의 타입을 `name: Type` 형태로 표시합니다.
 
 ```lua
-kitchen_crisis.log(message)
--- message: String
--- return: void
+kitchen_crisis.log(message: String): Void
 ```
 
 log.log 파일에 로그를 출력합니다.
 
 ```lua
-kitchen_crisis.i18n(key)
--- message: String
--- return: String
+kitchen_crisis.i18n(key: String): String
 ```
 
 게임 내부 언어 설정에 맞춰서 key 값에 대응되는 다국어 문자열을 반환합니다.
 
 ```lua
-kitchen_crisis.i18n_bind(key, map)
--- message: String
--- map: (key: String, value: String) table
+kitchen_crisis.i18n_bind(key: String, map: {String: String}): String
 ```
 
-다국어 문자열을 반환하되, 문자열 내의 `{Key}` 부분을 모두 해당 키에 대응하는 Value로 치환한 문자열을 반환합니다.
+다국어 문자열을 반환하되, 문자열 내의 `{Value}` 부분을 모두 해당 키에 대응하는 Value로 치환한 문자열을 반환합니다.
 
 ## session
 
 인게임 정보를 관리하는 API 테이블입니다.
 
 ```lua
-kitchen_crisis.session.add_limited_object(name, count)
--- name: String
--- count: int
+kitchen_crisis.session.add_limited_object(name: String, count: Number)
 ```
 
 `name` 요리 도구를 `count` 개 추가로 사용할 수 있게 합니다.
@@ -152,61 +144,258 @@ event_value는 event와 유사하게 동작하나, 반환값을 통해 특정 �
 
 ```lua
 kitchen_crisis.session.event_value.alloc_limit.add_listener(func)
-kitchen_crisis.session.event_value.alloc_limit.add_listener_with_end(func)
-kitchen_crisis.session.event_value.alloc_limit.trigger(limit, map_object)
+kitchen_crisis.session.event_value.alloc_limit.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.alloc_limit.eval(limit, map_object)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.stack.add_listener(func)
-kitchen_crisis.session.event_value.stack.add_listener_with_end(func)
-kitchen_crisis.session.event_value.stack.trigger(value, recipe, is_view)
+kitchen_crisis.session.event_value.stack.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.stack.eval(value, recipe, is_view)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.cook_time.add_listener(func)
-kitchen_crisis.session.event_value.cook_time.add_listener_with_end(func)
-kitchen_crisis.session.event_value.cook_time.trigger(time, job)
+kitchen_crisis.session.event_value.cook_time.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_time.eval(time, job)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.cook_time_view.add_listener(func)
-kitchen_crisis.session.event_value.cook_time_view.add_listener_with_end(func)
-kitchen_crisis.session.event_value.cook_time_view.trigger(time, map_object)
+kitchen_crisis.session.event_value.cook_time_view.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_time_view.eval(time, map_object)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.serve_time_base.add_listener(func)
-kitchen_crisis.session.event_value.serve_time_base.add_listener_with_end(func)
-kitchen_crisis.session.event_value.serve_time_base.trigger(time, recipe)
+kitchen_crisis.session.event_value.serve_time_base.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.serve_time_base.eval(time, recipe)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.serve_time_mult_fast.add_listener(func)
-kitchen_crisis.session.event_value.serve_time_mult_fast.add_listener_with_end(func)
-kitchen_crisis.session.event_value.serve_time_mult_fast.trigger(mult, recipe)
+kitchen_crisis.session.event_value.serve_time_mult_fast.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.serve_time_mult_fast.eval(mult, recipe)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.serve_time_mult_slow.add_listener(func)
-kitchen_crisis.session.event_value.serve_time_mult_slow.add_listener_with_end(func)
-kitchen_crisis.session.event_value.serve_time_mult_slow.trigger(mult, recipe)
+kitchen_crisis.session.event_value.serve_time_mult_slow.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.serve_time_mult_slow.eval(mult, recipe)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.attack_range.add_listener(func)
-kitchen_crisis.session.event_value.attack_range.add_listener_with_end(func)
-kitchen_crisis.session.event_value.attack_range.trigger(range, recipe)
+kitchen_crisis.session.event_value.attack_range.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.attack_range.eval(range, recipe)
 ```
 
 ```lua
 kitchen_crisis.session.event_value.attack_range_mult.add_listener(func)
-kitchen_crisis.session.event_value.attack_range_mult.add_listener_with_end(func)
-kitchen_crisis.session.event_value.attack_range_mult.trigger(mult, serve_id)
+kitchen_crisis.session.event_value.attack_range_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.attack_range_mult.eval(mult, serve_id)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_bullet.add_listener(func)
+kitchen_crisis.session.event_value.cook_bullet.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_bullet.eval(bullets)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_base_ratio.add_listener(func)
+kitchen_crisis.session.event_value.cook_base_ratio.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_base_ratio.eval(ratio, monster, recipe)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_result.add_listener(func)
+kitchen_crisis.session.event_value.cook_result.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_result.eval(result, recipe)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_after_eat_count.add_listener(func)
+kitchen_crisis.session.event_value.cook_after_eat_count.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_after_eat_count.eval(count, recipe)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_lock.add_listener(func)
+kitchen_crisis.session.event_value.cook_lock.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_lock.eval(lock_type, job_work)
+```
+
+```lua
+kitchen_crisis.session.event_value.cook_next_stack.add_listener(func)
+kitchen_crisis.session.event_value.cook_next_stack.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.cook_next_stack.eval(lock_type, job_work)
+```
+
+```lua
+kitchen_crisis.session.event_value.after_eat.add_listener(func)
+kitchen_crisis.session.event_value.after_eat.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.after_eat.eval(cook_result, cook_bullet, depth, order)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_cook_stat.add_listener(func)
+kitchen_crisis.session.event_value.worker_cook_stat.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_cook_stat.eval(stat, worker, conditional)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_move_stat.add_listener(func)
+kitchen_crisis.session.event_value.worker_move_stat.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_move_stat.eval(stat, worker, conditional)
+```
+
+```lua
+kitchen_crisis.session.event_value.robot_move_stat.add_listener(func)
+kitchen_crisis.session.event_value.robot_move_stat.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.robot_move_stat.eval(stat, worker, conditional)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_cook_speed.add_listener(func)
+kitchen_crisis.session.event_value.worker_cook_speed.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_cook_speed.eval(speed, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_cook_mult.add_listener(func)
+kitchen_crisis.session.event_value.worker_cook_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_cook_mult.eval(mult, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_move_speed.add_listener(func)
+kitchen_crisis.session.event_value.worker_move_speed.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_move_speed.eval(speed, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.worker_move_mult.add_listener(func)
+kitchen_crisis.session.event_value.worker_move_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.worker_move_mult.eval(mult, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.is_worker_move_buff.add_listener(func)
+kitchen_crisis.session.event_value.is_worker_move_buff.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.is_worker_move_buff.eval(is_buff, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.jump_range.add_listener(func)
+kitchen_crisis.session.event_value.jump_range.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.jump_range.eval(range)
+```
+
+```lua
+kitchen_crisis.session.event_value.job_cook_speed.add_listener(func)
+kitchen_crisis.session.event_value.job_cook_speed.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.job_cook_speed.eval(speed, recipe, to, result, worker)
+```
+
+```lua
+kitchen_crisis.session.event_value.eat_data.add_listener(func)
+kitchen_crisis.session.event_value.eat_data.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.eat_data.eval(cook_result, monster, cook_bullet)
+```
+
+```lua
+kitchen_crisis.session.event_value.eat_data_last_effect.add_listener(func)
+kitchen_crisis.session.event_value.eat_data_last_effect.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.eat_data_last_effect.eval(cook_result, monster, cook_bullet)
+```
+
+```lua
+kitchen_crisis.session.event_value.gold_bonus.add_listener(func)
+kitchen_crisis.session.event_value.gold_bonus.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.gold_bonus.eval(bonus)
+```
+
+```lua
+kitchen_crisis.session.event_value.recipe_overlap_prob.add_listener(func)
+kitchen_crisis.session.event_value.recipe_overlap_prob.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.recipe_overlap_prob.eval(prob)
+```
+
+```lua
+kitchen_crisis.session.event_value.upgrade_cost.add_listener(func)
+kitchen_crisis.session.event_value.upgrade_cost.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.upgrade_cost.eval(cost, upgrade_type)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_cc_time_multiply.add_listener(func)
+kitchen_crisis.session.event_value.monster_cc_time_multiply.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_cc_time_multiply.eval(mult, monster)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_reverse_move.add_listener(func)
+kitchen_crisis.session.event_value.monster_reverse_move.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_reverse_move.eval(is_reverse, monster)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_move_speed.add_listener(func)
+kitchen_crisis.session.event_value.monster_move_speed.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_move_speed.eval(speed, monster)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_move_speed_mult.add_listener(func)
+kitchen_crisis.session.event_value.monster_move_speed_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_move_speed_mult.eval(mult, monster)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_in_time.add_listener(func)
+kitchen_crisis.session.event_value.monster_in_time.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_in_time.eval(in_time)
+```
+
+```lua
+kitchen_crisis.session.event_value.monster_hp_mult.add_listener(func)
+kitchen_crisis.session.event_value.monster_hp_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.monster_hp_mult.eval(mult)
+```
+
+```lua
+kitchen_crisis.session.event_value.damage_mult.add_listener(func)
+kitchen_crisis.session.event_value.damage_mult.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.damage_mult.eval(mult, monster)
+```
+
+```lua
+kitchen_crisis.session.event_value.max_menu_count.add_listener(func)
+kitchen_crisis.session.event_value.max_menu_count.add_listener_with_end(func, end_func)
+kitchen_crisis.session.event_value.max_menu_count.eval(cnt)
 ```
 
 ### map
 
+```lua
+kitchen_crisis.map.get_object(x, y)
+```
+
 ## save_data
+
+```lua
+kitchen_crisis.save_data.unlock_tool_upgrade(upgrade)
+```
+
+```lua
+kitchen_crisis.save_data.unlock_character(character)
+```
+
+```lua
+kitchen_crisis.save_data.unlock_ingredient(ingredient)
+```
+
 
 ## global_event
 
