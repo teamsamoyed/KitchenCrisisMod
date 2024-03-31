@@ -396,13 +396,110 @@ kitchen_crisis.save_data.unlock_character(character)
 kitchen_crisis.save_data.unlock_ingredient(ingredient)
 ```
 
-
 ## global_event
+
+```lua
+kitchen_crisis.global_event.on_start_game.add_listener(func)
+kitchen_crisis.global_event.on_start_game.add_listener_with_end(func, end_func)
+kitchen_crisis.global_event.on_start_game.trigger(character, stage_index, chaos_level)
+```
 
 ## render
 
+```lua
+kitchen_crisis.render.draw_sprite(name, x, y, z, layer)
+```
+
+```lua
+kitchen_crisis.render.draw_sprite_ex(name, x, y, z, layer, rotate, anchor_x, anchor_y, color, flip_x, flip_y)
+```
+
+```lua
+kitchen_crisis.render.draw_animation(name, tag, x, y, z, layer)
+```
+
+```lua
+kitchen_crisis.render.draw_animation_ex(name, tag, x, y, z, layer, anim_time, rotate, anchor_x, anchor_y, color, flip_x, flip_y,)
+```
+
 ## ui
+
+```lua
+kitchen_crisis.ui.node(id)
+```
+
+```lua
+kitchen_crisis.ui.length_px(value)
+kitchen_crisis.ui.length_percent(value)
+kitchen_crisis.ui.length_auto()
+```
+
+```lua
+kitchen_crisis.ui.child_type_free()
+kitchen_crisis.ui.child_type_left_to_right(margin)
+kitchen_crisis.ui.child_type_top_to_bottom(margin)
+kitchen_crisis.ui.child_type_table(margin_x, margin_y)
+```
+
+```lua
+kitchen_crisis.ui.pos_type_relative()
+kitchen_crisis.ui.pos_type_screen_absolute()
+```
+
+## client
+
+### event_value
+
+```lua
+kitchen_crisis.client.event_value.supported_language.add_listener(func)
+kitchen_crisis.client.event_value.supported_language.add_listener_with_end(func, end_func)
+kitchen_crisis.client.event_value.supported_language.eval(languages)
+```
+
+```lua
+kitchen_crisis.client.event_value.font_name.add_listener(func)
+kitchen_crisis.client.event_value.font_name.add_listener_with_end(func, end_func)
+kitchen_crisis.client.event_value.font_name.eval(font_name, lang)
+```
 
 ## types
 
 kitchen crisis 내부 값을 표현하는 커스텀 타입들입니다.
+
+### Pos3
+
+### Pos3Int
+
+### MapObjectConfig
+
+### MapObjectModifierConfig
+
+### Recipe
+
+### StageIndexType
+
+### CookBullet
+
+### CookResult
+
+### MapObject
+
+### Monster
+
+### LockType
+
+### JobWork
+
+### Element
+
+### PosType
+
+### ChildType
+
+### Length
+
+### FocusState
+
+### Node
+
+### Value
