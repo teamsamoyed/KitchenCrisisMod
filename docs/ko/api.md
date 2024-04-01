@@ -20,6 +20,10 @@ kitchen_crisis.i18n_bind(key: String, map: {String: String}): String
 
 다국어 문자열을 반환하되, 문자열 내의 `{Value}` 부분을 모두 해당 키에 대응하는 Value로 치환한 문자열을 반환합니다.
 
+```lua
+kitchen_crisis.value_modifier(value)
+```
+
 ## session
 
 인게임 정보를 관리하는 API 테이블입니다.
@@ -40,6 +44,14 @@ kitchen_crisis.session.add_gold(added)
 
 ```lua
 kitchen_crisis.session.tool_upgrade_level(name)
+```
+
+```lua
+kitchen_crisis.session.play_speed()
+```
+
+```lua
+kitchen_crisis.session.set_play_speed(speed)
 ```
 
 ### event
@@ -446,6 +458,10 @@ kitchen_crisis.ui.pos_type_relative()
 kitchen_crisis.ui.pos_type_screen_absolute()
 ```
 
+```lua
+kitchen_crisis.ui.normal_button(id, text, text_size)
+```
+
 ## client
 
 ### event_value
@@ -468,31 +484,203 @@ kitchen crisis 내부 값을 표현하는 커스텀 타입들입니다.
 
 ### Pos3
 
+```lua
+this.x
+this.y
+this.z
+this:round_to_int() : Pos3Int
+this:distance(p)
+this:move_towards(goal, dist)
+this:normalize()
+this:dot(p)
+this:size()
+```
+
 ### Pos3Int
+
+```lua
+this.x
+this.y
+this.z
+this:distance(p)
+```
 
 ### MapObjectConfig
 
+```lua
+this.is_block
+this.can_remove
+this.alloc_limit
+this.modifier
+this.ignore_filter
+this:need_ingredients(in_place)
+this:tool_name(parent)
+this:need_stores(to_process)
+this:process_id(parent)
+this:need_process()
+this:need_tool_names()
+this:need_process_count()
+this:tier()
+this:stack_ignore_upgrade()
+this:stack(view)
+this:step()
+this:attack_ignore_upgrade()
+this:attack()
+this:serve_time_ignore_upgrade()
+this:serve_time()
+this:attack_range_ignore_upgrade()
+this:attack_range()
+this:cook_result_ignore_upgrade()
+this:cook_result()
+```
+
 ### MapObjectModifierConfig
+
+```lua
+this.attack
+this.cook_time
+```
+
+### ToolNameType
+
+```lua
+this:place_count()
+this:id()
+this:to_process()
+this:is_box()
+```
 
 ### Recipe
 
+```lua
+this.required
+this.process
+this.result
+this.is_menu
+```
+
 ### StageIndexType
+
+```lua
+this:category()
+this:header()
+this:index()
+```
 
 ### CookBullet
 
+```lua
+this.menu
+this.target_monster_id
+this.pos
+this.from_obj_id
+this.ratio
+this.range
+this.make_time
+this.is_after_attack
+this.can_return
+this.is_in_return
+
+this:recipe()
+this:clone()
+```
+
 ### CookResult
+
+```lua
+this.attack
+this.attack_critical_prob
+this.attack_critical
+this.ratio
+this.effects
+
+this:add_attack_const(added)
+this:add_attack_mult(added)
+this:mult_attack_value(mult)
+```
 
 ### MapObject
 
+```lua
+this:can_alloc()
+this:is_normal_tool()
+this:is_block_object()
+this:obj_id()
+this:set_obj_id(id)
+this:clear_obj_id()
+this:is_same_obj(obj)
+this:is_box()
+this:is_box_with(ingredient)
+this:is_set_serve()
+this:is_non_empty_serve()
+this:next_serve_time()
+this:is_wall()
+this:is_portal()
+this:alloc_limit()
+this:interactions()
+this:interaction_tiles()
+this:is_working()
+this:range(obj_id)
+this:name()
+```
+
 ### Monster
+
+```lua
+this:id()
+this:name()
+this:pos()
+```
 
 ### LockType
 
+```lua
+this:is_locked()
+this:need_touch()
+this:auto()
+this:need_touch_or_locked()
+```
+
 ### JobWork
+
+```lua
+this.id
+this.required
+this.process
+this.result
+this.menu
+this.report_id
+this.allocated_object
+this.allocated_worker
+this.serve
+this.stage
+this.overlap_order
+this.run_shadow_check
+this.throw_length
+this.last_alloc_check
+this.failed_allocs
+```
 
 ### Element
 
+```lua
+this:name()
+this:enabled()
+this:is_same_type(other)
+this:is_slider()
+this:is_image()
+this:is_none()
+this:is_label()
+this:is_canvas()
+this:is_scroll()
+```
+
 ### PosType
+
+```lua
+this:is_relative()
+this:is_screen_absolute()
+```
 
 ### ChildType
 
@@ -500,6 +688,27 @@ kitchen crisis 내부 값을 표현하는 커스텀 타입들입니다.
 
 ### FocusState
 
+```lua
+this:type()
+```
+
 ### Node
+
+```lua
+this:image(path)
+this:label(text)
+this:element()
+this:pos(x, y)
+this:size(w, h)
+this:child_type(child_type)
+this:anchor(x, y)
+this:pivot(x, y)
+this:pos_type(pos_type)
+this:focus()
+this:is_clicked()
+this:set_children(children)
+this:add_child(child)
+this:child(id)
+```
 
 ### Value
