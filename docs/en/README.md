@@ -40,8 +40,8 @@ The `info.json` file has the following format:
    - ko : Korean
    -en: English
    - jp: Japanese
-   - zh-chs: Simplified Chinese
-   - zh-cht: Traditional Chinese
+   - cn: Simplified Chinese
+   - cn_cht: Traditional Chinese
 - description: This is the mode description text that appears in the mode management window within the game. Likewise, set the value according to your country code. If it is not set, it will be displayed in English according to the 'en' key, so the English description must exist.
 - author: Mode author information.
 - version: Mode version.
