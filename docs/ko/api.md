@@ -58,6 +58,8 @@ kitchen_crisis.session.set_play_speed(speed)
 
 event는 kitchen crisis의 게임 내부에서 특정한 상황이 발생했을 때의 동작을 정의합니다. `add_listener`를 통해 해당 이벤트가 발생했을 때 수행할 동작을 정의할 수 있고, `trigger`를 통해 해당 이벤트를 발생시켜서 `add_listener`를 통해 등록된 콜백 함수들을 호출할 수 있습니다. `add_listener_with_end` 함수는 `end_func` 함수가 true를 반환하면 더이상 해당 이벤트가 발생했을 때에도 호출되지 않고 콜백 목록에서 제거됩니다. `end_func` 함수는 별개의 인자를 받지 않으며, `func` 함수는 `trigger`의 인자와 동일한 인자를 받는 함수여야 합니다.
 
+각 상황에서 사용할 함수는 `kitchen_crisis.register_function(name, func)` 을 통해 등록할 수 있으며, 이렇게 등록한 함수의 이름을 각각 add_listener, add_listener_with_end의 인자로 넘기면 됩니다.
+
 ```lua
 kitchen_crisis.session.event.on_open_wave.add_listener(func)
 kitchen_crisis.session.event.on_open_wave.add_listener_with_end(func, end_func)
@@ -153,6 +155,8 @@ kitchen_crisis.session.event.on_get_menu.trigger(menu)
 event_value는 event와 유사하게 동작하나, 반환값을 통해 특정 수치를 나타내는 값을 변조하는데 쓰입니다. `add_listener`를 통해 해당 event value를 평가할 때 수행할 동작을 정의할 수 있고, `eval`을 통해 해당 event value에 대응되는 값을 평가할 수 있습니다. `eval`의 첫번째 인자는 평가하고자 하는 값의 기본 수치이며, `add_listener`를 통해 등록된 값은 넘어온 첫번째 인자값을 적절히 수정하여 반환해야합니다. 첫번째 인자를 제외한 나머지 인자는 동일한 값이 이후 `add_listener`에도 동일하게 전달되며, 첫번째 인자는 앞선 `add_listener` 호출을 통해 변환된 값이 전달됩니다. `fold`, `aggregate`의 동작과 유사한 방식이라고 생각하시면 편합니다.
 
 `add_listener_with_end` 함수는 `end_func` 함수가 true를 반환하면 더이상 해당 이벤트가 발생했을 때에도 호출되지 않고 콜백 목록에서 제거됩니다. `end_func` 함수는 별개의 인자를 받지 않으며, `func` 함수는 `eval`의 인자와 동일한 인자를 받는 함수여야 합니다.
+
+각 상황에서 사용할 함수는 `kitchen_crisis.register_function(name, func)` 을 통해 등록할 수 있으며, 이렇게 등록한 함수의 이름을 각각 add_listener, add_listener_with_end의 인자로 넘기면 됩니다.
 
 ```lua
 kitchen_crisis.session.event_value.alloc_limit.add_listener(func)
