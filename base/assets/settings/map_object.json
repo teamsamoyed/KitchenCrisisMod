@@ -1,0 +1,127 @@
+{
+    "Wall": {
+        "IsBlock": true,
+        "CanRemove": false,
+        "IgnoreFilter": true,
+        "AllocLimit": 1
+    },
+    "Stone": {
+        "IsBlock": true,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1,
+        "IgnoreWarn": true
+    },
+    "Store": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 4.8,
+            "CookTime": 2
+        },
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1
+    },
+    "Board": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 7.2,
+            "CookTime": 3
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "TotalTool": {
+        "IsBlock": true,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1,
+        "IgnoreWarn": true
+    },
+    "TotalStore": {
+        "IsBlock": true,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1,
+        "IgnoreWarn": true
+    },
+    "Oven": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 12,
+            "CookTime": 5
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "Fryer": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 10.8,
+            "CookTime": 4.5
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "Empty": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 6,
+            "CookTime": 2.5
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "Pan": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 8.4,
+            "CookTime": 3.5
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "Plating": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 1,
+            "CookTime": 3.5
+        },
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1
+    },
+    "Pot": {
+        "IsBlock": true,
+        "Modifier": {
+            "Attack": 9.6,
+            "CookTime": 4
+        },
+        "CanRemove": true,
+        "AllocLimit": 1
+    },
+    "Flower": {
+        "IsBlock": true,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 0
+    },
+    "Fan": {
+        "IsBlock": true,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 1
+    },
+    "Portal": {
+        "IsBlock": false,
+        "CanRemove": true,
+        "IgnoreFilter": true,
+        "AllocLimit": 0
+    },
+    "Serve": {
+        "IsBlock": true,
+        "CanRemove": false,
+        "IgnoreFilter": true,
+        "AllocLimit": 1
+    }
+}

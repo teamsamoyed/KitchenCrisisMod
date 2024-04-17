@@ -1,0 +1,567 @@
+{
+    "BoardUpgrade": {
+        "Value": [
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ]
+    },
+    "PanUpgrade": {
+        "Value": [
+            {
+                "Min": 10,
+                "Max": 20
+            },
+            {
+                "Min": 20,
+                "Max": 40
+            },
+            {
+                "Min": 30,
+                "Max": 60
+            },
+            {
+                "Min": 40,
+                "Max": 80
+            },
+            {
+                "Min": 50,
+                "Max": 100
+            },
+            {
+                "Min": 60,
+                "Max": 120
+            },
+            {
+                "Min": 70,
+                "Max": 140
+            },
+            {
+                "Min": 80,
+                "Max": 160
+            },
+            {
+                "Min": 90,
+                "Max": 180
+            },
+            {
+                "Min": 100,
+                "Max": 200
+            }
+        ],
+        "Main": 5
+    },
+    "PotUpgrade": {
+        "Value": [
+            4,
+            8,
+            12,
+            16,
+            20,
+            24,
+            28,
+            32,
+            36,
+            40
+        ],
+        "Distance": 2,
+        "Main": 20
+    },
+    "StoreUpgrade": {
+        "Value": [
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ]
+    },
+    "FryerUpgrade": {
+        "Value": [
+            90,
+            120,
+            150,
+            180,
+            220,
+            250,
+            280,
+            320,
+            360,
+            400
+        ],
+        "Main": 100
+    },
+    "OvenUpgrade": {
+        "Value": [
+            {
+                "Value": 1,
+                "Prob": 10
+            },
+            {
+                "Value": 1.5,
+                "Prob": 20
+            },
+            {
+                "Value": 2,
+                "Prob": 30
+            },
+            {
+                "Value": 2.5,
+                "Prob": 40
+            },
+            {
+                "Value": 3,
+                "Prob": 50
+            },
+            {
+                "Value": 3.5,
+                "Prob": 60
+            },
+            {
+                "Value": 4,
+                "Prob": 70
+            },
+            {
+                "Value": 5,
+                "Prob": 80
+            },
+            {
+                "Value": 6,
+                "Prob": 90
+            },
+            {
+                "Value": 7,
+                "Prob": 100
+            }
+        ],
+        "Main": 2
+    },
+    "EmptyUpgrade": {
+        "Value": [
+            {
+                "Value": 3,
+                "Time": 3
+            },
+            {
+                "Value": 4,
+                "Time": 3
+            },
+            {
+                "Value": 5,
+                "Time": 3
+            },
+            {
+                "Value": 6,
+                "Time": 3
+            },
+            {
+                "Value": 7,
+                "Time": 4
+            },
+            {
+                "Value": 8,
+                "Time": 4
+            },
+            {
+                "Value": 9,
+                "Time": 4
+            },
+            {
+                "Value": 10,
+                "Time": 4
+            },
+            {
+                "Value": 10,
+                "Time": 5
+            },
+            {
+                "Value": 10,
+                "Time": 6
+            }
+        ]
+    },
+    "MoveSpeedUpgrade": {
+        "Value": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Main": 30
+    },
+    "CookSpeedUpgrade": {
+        "Value": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Main": 30
+    },
+    "ThrowUpgrade": {
+        "Value": [
+            {
+                "Distance": 4,
+                "Prob": 15
+            },
+            {
+                "Distance": 4,
+                "Prob": 30
+            },
+            {
+                "Distance": 4,
+                "Prob": 45
+            },
+            {
+                "Distance": 4,
+                "Prob": 60
+            },
+            {
+                "Distance": 4,
+                "Prob": 75
+            },
+            {
+                "Distance": 4,
+                "Prob": 90
+            },
+            {
+                "Distance": 4,
+                "Prob": 100
+            },
+            {
+                "Distance": 5,
+                "Prob": 100
+            },
+            {
+                "Distance": 6,
+                "Prob": 100
+            },
+            {
+                "Distance": 7,
+                "Prob": 100
+            }
+        ],
+        "Main": 30
+    },
+    "RobotUpgrade": {
+        "Value": [
+            {
+                "Count": 3,
+                "Speed": 6
+            },
+            {
+                "Count": 3,
+                "Speed": 9
+            },
+            {
+                "Count": 3,
+                "Speed": 12
+            },
+            {
+                "Count": 3,
+                "Speed": 15
+            },
+            {
+                "Count": 4,
+                "Speed": 15
+            },
+            {
+                "Count": 4,
+                "Speed": 18
+            },
+            {
+                "Count": 4,
+                "Speed": 21
+            },
+            {
+                "Count": 4,
+                "Speed": 24
+            },
+            {
+                "Count": 4,
+                "Speed": 27
+            },
+            {
+                "Count": 5,
+                "Speed": 30
+            }
+        ]
+    },
+    "RunFastUpgrade": {
+        "Value": [
+            {
+                "Term": 7,
+                "Duration": 2
+            },
+            {
+                "Term": 6,
+                "Duration": 2
+            },
+            {
+                "Term": 5,
+                "Duration": 2
+            },
+            {
+                "Term": 4,
+                "Duration": 2
+            },
+            {
+                "Term": 4,
+                "Duration": 3
+            },
+            {
+                "Term": 4,
+                "Duration": 4
+            },
+            {
+                "Term": 3,
+                "Duration": 4
+            },
+            {
+                "Term": 3,
+                "Duration": 5
+            },
+            {
+                "Term": 2,
+                "Duration": 5
+            },
+            {
+                "Term": 0,
+                "Duration": 6
+            }
+        ]
+    },
+    "FlowerUpgrade": {
+        "Value": [
+            {
+                "Count": 3,
+                "Value": 30
+            },
+            {
+                "Count": 3,
+                "Value": 40
+            },
+            {
+                "Count": 3,
+                "Value": 50
+            },
+            {
+                "Count": 4,
+                "Value": 60
+            },
+            {
+                "Count": 4,
+                "Value": 70
+            },
+            {
+                "Count": 4,
+                "Value": 80
+            },
+            {
+                "Count": 5,
+                "Value": 90
+            },
+            {
+                "Count": 5,
+                "Value": 100
+            },
+            {
+                "Count": 6,
+                "Value": 110
+            },
+            {
+                "Count": 6,
+                "Value": 120
+            }
+        ]
+    },
+    "PortalUpgrade": {
+        "Value": [
+            {
+                "Count": 2,
+                "Time": 0.2
+            },
+            {
+                "Count": 2,
+                "Time": 0.18
+            },
+            {
+                "Count": 2,
+                "Time": 0.16
+            },
+            {
+                "Count": 3,
+                "Time": 0.14
+            },
+            {
+                "Count": 3,
+                "Time": 0.12
+            },
+            {
+                "Count": 3,
+                "Time": 0.1
+            },
+            {
+                "Count": 4,
+                "Time": 0.08
+            },
+            {
+                "Count": 4,
+                "Time": 0.06
+            },
+            {
+                "Count": 4,
+                "Time": 0.04
+            },
+            {
+                "Count": 5,
+                "Time": 0.02
+            }
+        ]
+    },
+    "StackUpgrade": {
+        "Value": [
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ],
+        "Main": 3
+    },
+    "ServeSpeedUpgrade": {
+        "Value": [
+            5,
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45,
+            50
+        ],
+        "Main": 10
+    },
+    "FanUpgrade": {
+        "Value": [
+            {
+                "Count": 3,
+                "Value": 50
+            },
+            {
+                "Count": 3,
+                "Value": 60
+            },
+            {
+                "Count": 4,
+                "Value": 60
+            },
+            {
+                "Count": 4,
+                "Value": 70
+            },
+            {
+                "Count": 4,
+                "Value": 80
+            },
+            {
+                "Count": 4,
+                "Value": 90
+            },
+            {
+                "Count": 4,
+                "Value": 100
+            },
+            {
+                "Count": 4,
+                "Value": 110
+            },
+            {
+                "Count": 5,
+                "Value": 110
+            },
+            {
+                "Count": 5,
+                "Value": 120
+            }
+        ],
+        "Distance": 4,
+        "Main": 50
+    },
+    "AttackUpgrade": {
+        "Value": [
+            {
+                "Reduce": 30,
+                "Value": 12
+            },
+            {
+                "Reduce": 28,
+                "Value": 14
+            },
+            {
+                "Reduce": 26,
+                "Value": 16
+            },
+            {
+                "Reduce": 24,
+                "Value": 18
+            },
+            {
+                "Reduce": 22,
+                "Value": 20
+            },
+            {
+                "Reduce": 20,
+                "Value": 23
+            },
+            {
+                "Reduce": 18,
+                "Value": 26
+            },
+            {
+                "Reduce": 16,
+                "Value": 30
+            },
+            {
+                "Reduce": 13,
+                "Value": 35
+            },
+            {
+                "Reduce": 10,
+                "Value": 40
+            }
+        ],
+        "Main": 10
+    }
+}

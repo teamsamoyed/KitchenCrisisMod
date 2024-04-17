@@ -1,0 +1,118 @@
+{ "frames": [
+   {
+    "filename": "title_screen_mockup 0.aseprite",
+    "frame": { "x": 1, "y": 1, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 1.aseprite",
+    "frame": { "x": 386, "y": 1, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 2.aseprite",
+    "frame": { "x": 771, "y": 1, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 3.aseprite",
+    "frame": { "x": 1156, "y": 1, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 4.aseprite",
+    "frame": { "x": 1, "y": 218, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 5.aseprite",
+    "frame": { "x": 386, "y": 218, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 6.aseprite",
+    "frame": { "x": 771, "y": 218, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 7.aseprite",
+    "frame": { "x": 1156, "y": 218, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 8.aseprite",
+    "frame": { "x": 1, "y": 435, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 9.aseprite",
+    "frame": { "x": 386, "y": 435, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 60
+   },
+   {
+    "filename": "title_screen_mockup 1.aseprite",
+    "frame": { "x": 386, "y": 1, "w": 384, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 384, "h": 216 },
+    "sourceSize": { "w": 384, "h": 216 },
+    "duration": 6000
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "explosion_effect.png",
+  "format": "RGBA8888",
+  "size": { "w": 1541, "h": 652 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "explosion", "from": 0, "to": 10, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "effect", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "width": 8192,
+    "height": 8192,
+    "paths": ["sprites/monster"]
+  },
+  {
+    "width": 4096,
+    "height": 4096,
+    "paths": [ "sprites/character", "sprites/effects", "sprites/map_object", "sprites/number", "sprites/food" ]
+  }
+]

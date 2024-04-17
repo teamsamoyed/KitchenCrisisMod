@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GfxShaderVariation version="0.0.0">
+  <ShaderVariationDefinition>
+    <VertexShaderVariationDefinition>
+      <PreprocessorDefinitionDefinitionArray length="1">
+        <PreprocessorDefinitionDefinition index="0" name="NN_GFX_VERTEX_SHADER"/>
+      </PreprocessorDefinitionDefinitionArray>
+    </VertexShaderVariationDefinition>
+    <PixelShaderVariationDefinition>
+      <PreprocessorDefinitionDefinitionArray length="1">
+        <PreprocessorDefinitionDefinition index="0" name="NN_GFX_PIXEL_SHADER"/>
+      </PreprocessorDefinitionDefinitionArray>
+    </PixelShaderVariationDefinition>
+  </ShaderVariationDefinition>
+  <ShaderVariationValueArray length="1">
+    <ShaderVariationValue index="0">
+      <VertexShaderVariationValue>
+        <PreprocessorDefinitionValueArray length="1">
+          <PreprocessorDefinitionValue index="0">( 1 )</PreprocessorDefinitionValue>
+        </PreprocessorDefinitionValueArray>
+      </VertexShaderVariationValue>
+      <PixelShaderVariationValue>
+        <PreprocessorDefinitionValueArray length="1">
+          <PreprocessorDefinitionValue index="0">( 1 )</PreprocessorDefinitionValue>
+        </PreprocessorDefinitionValueArray>
+      </PixelShaderVariationValue>
+    </ShaderVariationValue>
+  </ShaderVariationValueArray>
+</GfxShaderVariation>

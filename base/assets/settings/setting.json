@@ -1,0 +1,362 @@
+{
+    "HP": 100,
+    "DiamondProb": 0.03,
+    "UpgradeCost": {
+        "A": 40,
+        "P": 1.6,
+        "B": 200
+    },
+    "IngredientUpgradeCost": [
+        300,
+        600,
+        1000,
+        1500,
+        2200,
+        2800,
+        3500,
+        4400,
+        5000,
+        6000,
+        7000,
+        8500,
+        10000
+    ],
+    "AddWorkerCost": [
+        300,
+        600,
+        1000,
+        2000,
+        3000,
+        4000,
+        5500,
+        7000,
+        10000,
+        15000,
+        22000,
+        30000,
+        40000,
+        50000
+    ],
+    "BaseMoveSpeed": 2.2,
+    "MoveUpPerValue": 0.15,
+    "BaseCookSpeed": 1.2,
+    "CookUpPerValue": 0.13,
+    "RatioUpPerCookSkill": 0.01,
+    "RunSpeed": 1.3,
+    "StartWorker": 4,
+    "StartMenuCount": 3,
+    "MaxMenuCount": 6,
+    "BaseAttack": 6,
+    "BaseServeTime": 0.7,
+    "BaseCookStack": [
+        2,
+        3,
+        4,
+        4,
+        5
+    ],
+    "StartIngredientMax": 3,
+    "StartToolMax": 3,
+    "BaseAttackRange": 4,
+    "CookBulletSpeed": 10,
+    "ThrowMoveTime": 0.5,
+    "RerollWithGoldCost": 1000,
+    "Stages": [
+        "maps/map1.map",
+        "maps/map2.map",
+        "maps/map3.map",
+        "maps/map4.map",
+        "maps/map5.map",
+        "maps/map6.map",
+        "maps/map7.map",
+        "maps/map8.map",
+        "maps/map9.map",
+        "maps/map10.map",
+        "maps/map11.map",
+        "maps/map12.map",
+        "maps/map13.map",
+        "maps/map14.map",
+        "maps/map15.map",
+        "maps/map16.map",
+        "maps/map17.map",
+        "maps/map18.map",
+        "maps/map19.map",
+        "maps/map20.map",
+        "maps/map_demo.map"
+    ],
+    "ChaosMap": {
+        "Width": 20,
+        "Height": 20,
+        "PointCount": 80,
+        "FirstMerge": 10,
+        "AfterMerge": 7,
+        "PathLength": 60
+    },
+    "Chaos": [
+        0,
+        10,
+        0.5,
+        6,
+        20,
+        30,
+        10,
+        30,
+        0.5,
+        14
+    ],
+    "ChaosMonster": {
+        "MonsterInfo": [
+            {
+                "Name": "4Leg4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Ogre4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Slime4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Mosquito4",
+                "Term": { "From": 0.1, "To": 0.1 }
+            },
+            {
+                "Name": "Golem4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Split4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Angel4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Undead4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Turtle4",
+                "Term": { "From": 0.8, "To": 2 }
+            },
+            {
+                "Name": "Reptile4",
+                "Term": { "From": 0.8, "To": 2 }
+            }
+        ],
+        "BossInfo": [
+            
+            {
+                "Name": "4LegBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "OgreBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "SlimeBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "MosquitoBoss1",
+                "Term": { "From": 0.2, "To": 0.4 }
+            },
+            {
+                "Name": "GolemBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "SplitBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "AngelBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "UndeadBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "TurtleBoss1",
+                "Term": { "From": 2, "To": 4 }
+            },
+            {
+                "Name": "ReptileBoss1",
+                "Term": { "From": 2, "To": 4 }
+            }
+        ],
+        "Waves": [
+            {
+                "HpSum": { "From": 5000, "To": 7000 },
+                "InTime": { "From": 5.0, "To": 5.5 }
+            },
+            {
+                "HpSum": { "From": 15000, "To": 20000 },
+                "InTime": { "From": 5.0, "To": 5.5 }
+            },
+            {
+                "HpSum": { "From": 25000, "To": 30000 },
+                "InTime": { "From": 5.0, "To": 5.5 }
+            },
+            {
+                "HpSum": { "From": 40000, "To": 50000 },
+                "InTime": { "From": 5.0, "To": 5.5 }
+            },
+            {
+                "HpSum": { "From": 60000, "To": 70000 },
+                "InTime": { "From": 4.5, "To": 5.0 }
+            },
+            {
+                "HpSum": { "From": 80000, "To": 90000 },
+                "InTime": { "From": 4.5, "To": 5.0 }
+            },
+            {
+                "HpSum": { "From": 100000, "To": 110000 },
+                "InTime": { "From": 4.5, "To": 5.0 }
+            },
+            {
+                "HpSum": { "From": 130000, "To": 140000 },
+                "InTime": { "From": 4.5, "To": 5.0 }
+            },
+            {
+                "HpSum": { "From": 160000, "To": 170000 },
+                "InTime": { "From": 4.0, "To": 4.5 }
+            },
+            {
+                "HpSum": { "From": 190000, "To": 200000 },
+                "InTime": { "From": 4.0, "To": 4.5 }
+            },
+            {
+                "HpSum": { "From": 230000, "To": 240000 },
+                "InTime": { "From": 4.0, "To": 4.5 }
+            },
+            {
+                "HpSum": { "From": 300000, "To": 310000 },
+                "InTime": { "From": 4.0, "To": 4.5 }
+            },
+            {
+                "HpSum": { "From": 400000, "To": 410000 },
+                "InTime": { "From": 3.5, "To": 4.0 }
+            },
+            {
+                "HpSum": { "From": 500000, "To": 510000 },
+                "InTime": { "From": 3.5, "To": 4.0 }
+            },
+            {
+                "HpSum": { "From": 610000, "To": 620000 },
+                "InTime": { "From": 3.5, "To": 4.0 }
+            },
+            {
+                "HpSum": { "From": 730000, "To": 740000 },
+                "InTime": { "From": 3.5, "To": 4.0 }
+            }
+        ]
+    },
+    "ReceipeTierRange": [
+        {
+            "Min": 1,
+            "Max": 2
+        },
+        {
+            "Min": 1,
+            "Max": 2
+        },
+        {
+            "Min": 1,
+            "Max": 3
+        },
+        {
+            "Min": 1,
+            "Max": 3
+        },
+        {
+            "Min": 1,
+            "Max": 3
+        },
+        {
+            "Min": 2,
+            "Max": 3
+        },
+        {
+            "Min": 2,
+            "Max": 4
+        },
+        {
+            "Min": 2,
+            "Max": 4
+        },
+        {
+            "Min": 3,
+            "Max": 4
+        },
+        {
+            "Min": 3,
+            "Max": 4
+        },
+        {
+            "Min": 3,
+            "Max": 5
+        },
+        {
+            "Min": 3,
+            "Max": 5
+        },
+        {
+            "Min": 3,
+            "Max": 5
+        },
+        {
+            "Min": 4,
+            "Max": 5
+        },
+        {
+            "Min": 4,
+            "Max": 5
+        },
+        {
+            "Min": 4,
+            "Max": 5
+        }
+    ],
+    "GoldAdjustNormal": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -5,
+        -10,
+        -15,
+        -20,
+        -25,
+        -30,
+        -35,
+        -40,
+        -45
+    ],
+    "GoldAdjustChaos": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -5,
+        -10,
+        -20,
+        -30,
+        -40,
+        -50,
+        -55,
+        -60,
+        -70
+    ]
+}

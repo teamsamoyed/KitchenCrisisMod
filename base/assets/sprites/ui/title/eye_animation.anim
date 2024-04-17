@@ -1,0 +1,237 @@
+{ "frames": [
+   {
+    "filename": "eye_animation 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 300
+   },
+   {
+    "filename": "eye_animation 1.aseprite",
+    "frame": { "x": 16, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 2.aseprite",
+    "frame": { "x": 32, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 3.aseprite",
+    "frame": { "x": 48, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 4.aseprite",
+    "frame": { "x": 64, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 200
+   },
+   {
+    "filename": "eye_animation 5.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 6.aseprite",
+    "frame": { "x": 96, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 7.aseprite",
+    "frame": { "x": 112, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 8.aseprite",
+    "frame": { "x": 128, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 300
+   },
+   {
+    "filename": "eye_animation 9.aseprite",
+    "frame": { "x": 144, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 10.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 11.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 12.aseprite",
+    "frame": { "x": 192, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 200
+   },
+   {
+    "filename": "eye_animation 13.aseprite",
+    "frame": { "x": 208, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 14.aseprite",
+    "frame": { "x": 224, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 15.aseprite",
+    "frame": { "x": 240, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 16.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 300
+   },
+   {
+    "filename": "eye_animation 17.aseprite",
+    "frame": { "x": 272, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 18.aseprite",
+    "frame": { "x": 288, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 19.aseprite",
+    "frame": { "x": 304, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 20.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 200
+   },
+   {
+    "filename": "eye_animation 21.aseprite",
+    "frame": { "x": 336, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 22.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   },
+   {
+    "filename": "eye_animation 23.aseprite",
+    "frame": { "x": 368, "y": 0, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 4 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-rc4-x64",
+  "image": "eye_animation.png",
+  "format": "RGBA8888",
+  "size": { "w": 384, "h": 4 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "front", "from": 0, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "left", "from": 8, "to": 15, "direction": "forward", "color": "#000000ff" },
+   { "name": "right", "from": 16, "to": 23, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

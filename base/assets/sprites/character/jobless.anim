@@ -1,0 +1,680 @@
+{ "frames": [
+   {
+    "filename": "chef_jobless 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 1.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 2.aseprite",
+    "frame": { "x": 72, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 4.aseprite",
+    "frame": { "x": 108, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 5.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 6.aseprite",
+    "frame": { "x": 144, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 7.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 8.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 9.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 10.aseprite",
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 11.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 12.aseprite",
+    "frame": { "x": 0, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 13.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 14.aseprite",
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 15.aseprite",
+    "frame": { "x": 36, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 16.aseprite",
+    "frame": { "x": 72, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 17.aseprite",
+    "frame": { "x": 36, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 18.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 19.aseprite",
+    "frame": { "x": 144, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 20.aseprite",
+    "frame": { "x": 180, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 21.aseprite",
+    "frame": { "x": 144, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 22.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 23.aseprite",
+    "frame": { "x": 216, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 24.aseprite",
+    "frame": { "x": 252, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 25.aseprite",
+    "frame": { "x": 216, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 26.aseprite",
+    "frame": { "x": 0, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 27.aseprite",
+    "frame": { "x": 36, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 28.aseprite",
+    "frame": { "x": 72, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 29.aseprite",
+    "frame": { "x": 108, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 30.aseprite",
+    "frame": { "x": 144, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 31.aseprite",
+    "frame": { "x": 180, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 32.aseprite",
+    "frame": { "x": 216, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 33.aseprite",
+    "frame": { "x": 252, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_jobless 34.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 35.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 36.aseprite",
+    "frame": { "x": 36, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 37.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 38.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 39.aseprite",
+    "frame": { "x": 72, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 40.aseprite",
+    "frame": { "x": 108, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 41.aseprite",
+    "frame": { "x": 72, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 42.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 43.aseprite",
+    "frame": { "x": 144, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 44.aseprite",
+    "frame": { "x": 180, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 45.aseprite",
+    "frame": { "x": 144, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 46.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 47.aseprite",
+    "frame": { "x": 216, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 48.aseprite",
+    "frame": { "x": 252, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 49.aseprite",
+    "frame": { "x": 216, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 50.aseprite",
+    "frame": { "x": 0, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 51.aseprite",
+    "frame": { "x": 36, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 52.aseprite",
+    "frame": { "x": 72, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 53.aseprite",
+    "frame": { "x": 108, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 54.aseprite",
+    "frame": { "x": 144, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 55.aseprite",
+    "frame": { "x": 180, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_jobless 56.aseprite",
+    "frame": { "x": 216, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 57.aseprite",
+    "frame": { "x": 252, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 58.aseprite",
+    "frame": { "x": 0, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 59.aseprite",
+    "frame": { "x": 252, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 60.aseprite",
+    "frame": { "x": 36, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 61.aseprite",
+    "frame": { "x": 72, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 62.aseprite",
+    "frame": { "x": 108, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 63.aseprite",
+    "frame": { "x": 72, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_jobless 64.aseprite",
+    "frame": { "x": 144, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_jobless 65.aseprite",
+    "frame": { "x": 180, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_jobless 66.aseprite",
+    "frame": { "x": 216, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_jobless 67.aseprite",
+    "frame": { "x": 252, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_jobless 68.aseprite",
+    "frame": { "x": 0, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_jobless 69.aseprite",
+    "frame": { "x": 36, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_jobless 70.aseprite",
+    "frame": { "x": 72, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.5-x64",
+  "image": "jobless.png",
+  "format": "RGBA8888",
+  "size": { "w": 288, "h": 252 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "base", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "base_back", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle", "from": 2, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_back", "from": 6, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "run", "from": 10, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "run_back", "from": 18, "to": 25, "direction": "forward", "color": "#000000ff" },
+   { "name": "sit", "from": 26, "to": 26, "direction": "forward", "color": "#000000ff" },
+   { "name": "sit_back", "from": 27, "to": 27, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing", "from": 28, "to": 30, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing_back", "from": 31, "to": 33, "direction": "forward", "color": "#000000ff" },
+   { "name": "working", "from": 34, "to": 41, "direction": "forward", "color": "#000000ff" },
+   { "name": "working_back", "from": 42, "to": 49, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan", "from": 50, "to": 52, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan_back", "from": 53, "to": 55, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting", "from": 56, "to": 59, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting_back", "from": 60, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "game_over", "from": 64, "to": 64, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 65, "to": 66, "direction": "forward", "color": "#000000ff" },
+   { "name": "cry", "from": 67, "to": 70, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "effect_back", "opacity": 255, "blendMode": "normal" },
+   { "name": "chef", "opacity": 255, "blendMode": "normal" },
+   { "name": "hand", "opacity": 255, "blendMode": "normal" },
+   { "name": "tool", "opacity": 255, "blendMode": "normal" },
+   { "name": "effect", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,643 @@
+{
+    "WorkerAddMastery": {
+        "Required": [],
+        "MaxLevel": 1
+    },
+    "WorkerCostDownMastery": {
+        "Required": [
+            "WorkerAddMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "WorkerCookSpeedUpMastery": {
+        "Required": [
+            "WorkerAddMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2,
+            4
+        ]
+    },
+    "WorkerDiagonalMastery": {
+        "Required": [
+            "WorkerCostDownMastery",
+            "WorkerCookSpeedUpMastery"
+        ],
+        "MaxLevel": 1
+    },
+    "WorkerAddUpgradeMastery": {
+        "Required": [
+            "WorkerDiagonalMastery"
+        ],
+        "Value": [
+            4,
+            3
+        ],
+        "MaxLevel": 2
+    },
+    "WorkerMultiObjectMastery": {
+        "Required": [
+            "WorkerDiagonalMastery"
+        ],
+        "Value": [
+            1,
+            2
+        ],
+        "MaxLevel": 2
+    },
+    "WorkerConcurrentMastery": {
+        "Required": [
+            "WorkerAddUpgradeMastery",
+            "WorkerMultiObjectMastery"
+        ],
+        "Value": [
+            1
+        ],
+        "MaxLevel": 1
+    },
+    "CookSpeedUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "CookSpeedUpBelowMastery": {
+        "Required": [
+            "CookSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "CookSpeedUpAboveMastery": {
+        "Required": [
+            "CookSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "CookSpeedStack0Mastery": {
+        "Required": [
+            "CookSpeedUpBelowMastery",
+            "CookSpeedUpAboveMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ],
+        "ValueOnStack0": [
+            100
+        ]
+    },
+    "CookSpeedStackUpMastery": {
+        "Required": [
+            "CookSpeedStack0Mastery"
+        ],
+        "MaxLevel": 2,
+        "Prob": [
+            50,
+            100
+        ]
+    },
+    "CookSpeedStackAddMastery": {
+        "Required": [
+            "CookSpeedStack0Mastery"
+        ],
+        "MaxLevel": 2,
+        "Time": [
+            20,
+            10
+        ],
+        "Count": [
+            1,
+            1
+        ]
+    },
+    "CookSpeedFeverTimeMastery": {
+        "Required": [
+            "CookSpeedStackUpMastery",
+            "CookSpeedStackAddMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ]
+    },
+    "MoveSpeedUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "MoveSpeedUpBelowMastery": {
+        "Required": [
+            "MoveSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "MoveSpeedUpAboveMastery": {
+        "Required": [
+            "MoveSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "MoveSpeedUpHoldingMastery": {
+        "Required": [
+            "MoveSpeedUpBelowMastery",
+            "MoveSpeedUpAboveMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ],
+        "ValueHolding": [
+            10
+        ]
+    },
+    "MoveSpeedUpStartMastery": {
+        "Required": [
+            "MoveSpeedUpHoldingMastery"
+        ],
+        "MaxLevel": 2,
+        "Time": [
+            0.5,
+            1
+        ],
+        "Value": [
+            30,
+            40
+        ]
+    },
+    "MoveSpeedUpTurnMastery": {
+        "Required": [
+            "MoveSpeedUpHoldingMastery"
+        ],
+        "MaxLevel": 2,
+        "Time": [
+            0.1,
+            0.15
+        ],
+        "Value": [
+            100,
+            150
+        ]
+    },
+    "MoveSpeedUpTeleportMastery": {
+        "Required": [
+            "MoveSpeedUpStartMastery",
+            "MoveSpeedUpTurnMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ],
+        "Prob": [
+            20
+        ]
+    },
+    "AttackUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "AttackUpNowMastery": {
+        "Required": [
+            "AttackUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            20,
+            40
+        ]
+    },
+    "AttackUpLossMastery": {
+        "Required": [
+            "AttackUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            20,
+            40
+        ]
+    },
+    "AttackUpTierMastery": {
+        "Required": [
+            "AttackUpNowMastery",
+            "AttackUpLossMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            15
+        ]
+    },
+    "AttackUpOverMastery": {
+        "Required": [
+            "AttackUpTierMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            20,
+            40
+        ],
+        "Distance": [
+            3,
+            3
+        ]
+    },
+    "AttackUpFirstMastery": {
+        "Required": [
+            "AttackUpTierMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            40,
+            80
+        ]
+    },
+    "AttackUpBroadMastery": {
+        "Required": [
+            "AttackUpOverMastery",
+            "AttackUpFirstMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            5
+        ]
+    },
+    "ServeSpeedUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ]
+    },
+    "ServeSpeedDoubleMastery": {
+        "Required": [
+            "ServeSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            15,
+            30
+        ]
+    },
+    "ServeSpeedUpgradeCountMastery": {
+        "Required": [
+            "ServeSpeedUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2.5,
+            5
+        ]
+    },
+    "ServeSpeedStackMastery": {
+        "Required": [
+            "ServeSpeedDoubleMastery",
+            "ServeSpeedUpgradeCountMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ],
+        "ValueStack": [
+            1
+        ]
+    },
+    "ServeSpeedMultiMastery": {
+        "Required": [
+            "ServeSpeedStackMastery"
+        ],
+        "MaxLevel": 2,
+        "Prob": [
+            10,
+            20
+        ]
+    },
+    "ServeSpeedSameMastery": {
+        "Required": [
+            "ServeSpeedStackMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2.5,
+            5
+        ]
+    },
+    "ServeSpeedSubMastery": {
+        "Required": [
+            "ServeSpeedMultiMastery",
+            "ServeSpeedSameMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ],
+        "ValueSub": [
+            20
+        ]
+    },
+    "ServeRangeUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            1
+        ]
+    },
+    "ServeRangeAttackMastery": {
+        "Required": [
+            "ServeRangeUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2,
+            5
+        ]
+    },
+    "ServeRangeSpeedMastery": {
+        "Required": [
+            "ServeRangeUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            5,
+            10
+        ]
+    },
+    "ServeRangeNoServeTimeMastery": {
+        "Required": [
+            "ServeRangeAttackMastery",
+            "ServeRangeSpeedMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            1
+        ],
+        "ValueTime": [
+            5
+        ]
+    },
+    "ServeRangePierceAttackMastery": {
+        "Required": [
+            "ServeRangeNoServeTimeMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            5,
+            10
+        ]
+    },
+    "ServeRangePierceSlowMastery": {
+        "Required": [
+            "ServeRangeNoServeTimeMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            20,
+            30
+        ],
+        "Time": [
+            1,
+            2
+        ]
+    },
+    "ServeRangeRandomMastery": {
+        "Required": [
+            "ServeRangePierceAttackMastery",
+            "ServeRangePierceSlowMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            1
+        ],
+        "Time": [
+            5
+        ]
+    },
+    "GoldGetUpMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "GoldCreditMastery": {
+        "Required": [
+            "GoldGetUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            2
+        ]
+    },
+    "GoldGetTierMastery": {
+        "Required": [
+            "GoldGetUpMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2,
+            4
+        ]
+    },
+    "GoldGetWorkerMastery": {
+        "Required": [
+            "GoldCreditMastery",
+            "GoldGetTierMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ],
+        "WorkerGold": [
+            10000
+        ],
+        "Limit": [
+            10
+        ]
+    },
+    "GoldGetStackMastery": {
+        "Required": [
+            "GoldGetWorkerMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            1.5
+        ]
+    },
+    "GoldInterestMastery": {
+        "Required": [
+            "GoldGetWorkerMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            5,
+            10
+        ]
+    },
+    "GoldGetRerollMastery": {
+        "Required": [
+            "GoldGetStackMastery",
+            "GoldInterestMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            20
+        ]
+    },
+    "MenuAttackMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "MenuCountMastery": {
+        "Required": [
+            "MenuAttackMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            2
+        ]
+    },
+    "MenuGoldMastery": {
+        "Required": [
+            "MenuAttackMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            10,
+            20
+        ]
+    },
+    "MenuServeMastery": {
+        "Required": [
+            "MenuCountMastery",
+            "MenuGoldMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            3
+        ]
+    },
+    "MenuIncludeMastery": {
+        "Required": [
+            "MenuServeMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            2
+        ]
+    },
+    "MenuSelectMastery": {
+        "Required": [
+            "MenuServeMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            3,
+            2
+        ]
+    },
+    "MenuRelicMastery": {
+        "Required": [
+            "MenuIncludeMastery",
+            "MenuSelectMastery"
+        ],
+        "MaxLevel": 1
+    },
+    "UpgradeTicketMastery": {
+        "Required": [],
+        "MaxLevel": 1,
+        "Value": [
+            5
+        ]
+    },
+    "UpgradeAttackMastery": {
+        "Required": [
+            "UpgradeTicketMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            2
+        ]
+    },
+    "UpgradeCookMastery": {
+        "Required": [
+            "UpgradeTicketMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            1,
+            2
+        ]
+    },
+    "UpgradeWorkerMastery": {
+        "Required": [
+            "UpgradeAttackMastery",
+            "UpgradeCookMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            10
+        ]
+    },
+    "UpgradeToolMastery": {
+        "Required": [
+            "UpgradeWorkerMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2,
+            3
+        ]
+    },
+    "UpgradeIngredientMastery": {
+        "Required": [
+            "UpgradeWorkerMastery"
+        ],
+        "MaxLevel": 2,
+        "Value": [
+            2,
+            3
+        ]
+    },
+    "UpgradeSlotMastery": {
+        "Required": [
+            "UpgradeToolMastery",
+            "UpgradeIngredientMastery"
+        ],
+        "MaxLevel": 1,
+        "Value": [
+            3
+        ]
+    }
+}

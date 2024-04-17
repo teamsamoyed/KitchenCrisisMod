@@ -1,0 +1,702 @@
+{
+    "AttackBuffUpgrade": {
+        "Value": [
+            5,
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45,
+            50
+        ]
+    },
+    "ServeSpeedUpgrade": {
+        "Value": [
+            20,
+            25,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ]
+    },
+    "ServeRangeUpgrade": {
+        "Value": [
+            1,
+            1.5,
+            2,
+            2.5,
+            3,
+            3.5,
+            4,
+            4.5,
+            5,
+            6
+        ]
+    },
+    "GoldBuffUpgrade": {
+        "Value": [
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45,
+            50,
+            55
+        ]
+    },
+    "DotAttackUpgrade": {
+        "Value": [
+            {
+                "Value": 10,
+                "Time": 2
+            },
+            {
+                "Value": 15,
+                "Time": 2
+            },
+            {
+                "Value": 20,
+                "Time": 2.5
+            },
+            {
+                "Value": 25,
+                "Time": 2.5
+            },
+            {
+                "Value": 30,
+                "Time": 2.5
+            },
+            {
+                "Value": 35,
+                "Time": 2.5
+            },
+            {
+                "Value": 40,
+                "Time": 3
+            },
+            {
+                "Value": 45,
+                "Time": 3
+            },
+            {
+                "Value": 50,
+                "Time": 3.5
+            },
+            {
+                "Value": 60,
+                "Time": 3.5
+            }
+        ]
+    },
+    "AttackBuffValueUpgrade": {
+        "Value": [
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ]
+    },
+    "SlowUpgrade": {
+        "Value": [
+            {
+                "Time": 1,
+                "Value": 15
+            },
+            {
+                "Time": 1.2,
+                "Value": 20
+            },
+            {
+                "Time": 1.4,
+                "Value": 20
+            },
+            {
+                "Time": 1.6,
+                "Value": 25
+            },
+            {
+                "Time": 1.8,
+                "Value": 25
+            },
+            {
+                "Time": 2,
+                "Value": 25
+            },
+            {
+                "Time": 2.2,
+                "Value": 30
+            },
+            {
+                "Time": 2.4,
+                "Value": 30
+            },
+            {
+                "Time": 2.6,
+                "Value": 30
+            },
+            {
+                "Time": 2.8,
+                "Value": 40
+            }
+        ]
+    },
+    "StopMoveUpgrade": {
+        "Value": [
+            0.1,
+            0.12,
+            0.15,
+            0.17,
+            0.2,
+            0.22,
+            0.25,
+            0.3,
+            0.35,
+            0.4
+        ]
+    },
+    "NextAttackBuffUpgrade": {
+        "Value": [
+            {
+                "Time": 1,
+                "Value": 5
+            },
+            {
+                "Time": 1,
+                "Value": 7.5
+            },
+            {
+                "Time": 1,
+                "Value": 10
+            },
+            {
+                "Time": 2,
+                "Value": 12.5
+            },
+            {
+                "Time": 2,
+                "Value": 15
+            },
+            {
+                "Time": 3,
+                "Value": 15
+            },
+            {
+                "Time": 3,
+                "Value": 17.5
+            },
+            {
+                "Time": 3,
+                "Value": 20
+            },
+            {
+                "Time": 3,
+                "Value": 22.5
+            },
+            {
+                "Time": 3,
+                "Value": 25
+            }
+        ]
+    },
+    "CriticalUpgrade": {
+        "Value": [
+            {
+                "Time": 1,
+                "Value": 2.5
+            },
+            {
+                "Time": 1.5,
+                "Value": 3.5
+            },
+            {
+                "Time": 1.5,
+                "Value": 5
+            },
+            {
+                "Time": 2,
+                "Value": 6
+            },
+            {
+                "Time": 2,
+                "Value": 7.5
+            },
+            {
+                "Time": 2.5,
+                "Value": 8.5
+            },
+            {
+                "Time": 2.5,
+                "Value": 10
+            },
+            {
+                "Time": 3,
+                "Value": 11
+            },
+            {
+                "Time": 3,
+                "Value": 12.5
+            },
+            {
+                "Time": 3.5,
+                "Value": 15
+            }
+        ]
+    },
+    "PermanentSlowUpgrade": {
+        "Value": [
+            1,
+            1.5,
+            2,
+            2.5,
+            3,
+            3.5,
+            4,
+            4.5,
+            5,
+            6
+        ],
+        "Limit": 30
+    },
+    "AfterAttackUpgrade": {
+        "Value": [
+            1,
+            1.5,
+            2,
+            2.5,
+            3,
+            3.5,
+            4,
+            4.5,
+            5,
+            6
+        ],
+        "Limit": 50
+    },
+    "RangeAttackDownUpgrade": {
+        "Value": [
+            {
+                "Value": 40,
+                "Distance": 2,
+                "Count": 3
+            },
+            {
+                "Value": 35,
+                "Distance": 2,
+                "Count": 3
+            },
+            {
+                "Value": 30,
+                "Distance": 2,
+                "Count": 3
+            },
+            {
+                "Value": 30,
+                "Distance": 3,
+                "Count": 4
+            },
+            {
+                "Value": 25,
+                "Distance": 3,
+                "Count": 4
+            },
+            {
+                "Value": 20,
+                "Distance": 3,
+                "Count": 4
+            },
+            {
+                "Value": 15,
+                "Distance": 3,
+                "Count": 5
+            },
+            {
+                "Value": 10,
+                "Distance": 3,
+                "Count": 5
+            },
+            {
+                "Value": 5,
+                "Distance": 3,
+                "Count": 5
+            },
+            {
+                "Value": 0,
+                "Distance": 3,
+                "Count": 5
+            }
+        ]
+    },
+    "MultiAttackUpgrade": {
+        "Value": [
+            60,
+            55,
+            50,
+            45,
+            40,
+            37.5,
+            35,
+            32.5,
+            30,
+            27.5
+        ]
+    },
+    "StackUpgrade": {
+        "Value": [
+            {
+                "Value": 30,
+                "Count": 1
+            },
+            {
+                "Value": 25,
+                "Count": 1
+            },
+            {
+                "Value": 20,
+                "Count": 1
+            },
+            {
+                "Value": 15,
+                "Count": 1
+            },
+            {
+                "Value": 12.5,
+                "Count": 1
+            },
+            {
+                "Value": 10,
+                "Count": 1
+            },
+            {
+                "Value": 7.5,
+                "Count": 1
+            },
+            {
+                "Value": 5,
+                "Count": 1
+            },
+            {
+                "Value": 2.5,
+                "Count": 1
+            },
+            {
+                "Value": 0,
+                "Count": 1
+            }
+        ]
+    },
+    "TotalAttackUpgrade": {
+        "Value": [
+            40,
+            38,
+            36,
+            34,
+            32,
+            30,
+            28,
+            26,
+            24,
+            20
+        ]
+    },
+    "CookUpgrade": {
+        "Value": [
+            {
+                "Value": 25,
+                "Cook": 25
+            },
+            {
+                "Value": 24,
+                "Cook": 30
+            },
+            {
+                "Value": 23,
+                "Cook": 32.5
+            },
+            {
+                "Value": 22,
+                "Cook": 35
+            },
+            {
+                "Value": 20,
+                "Cook": 37.5
+            },
+            {
+                "Value": 18,
+                "Cook": 40
+            },
+            {
+                "Value": 16,
+                "Cook": 42.5
+            },
+            {
+                "Value": 14,
+                "Cook": 45
+            },
+            {
+                "Value": 12,
+                "Cook": 47.5
+            },
+            {
+                "Value": 10,
+                "Cook": 50
+            }
+        ]
+    },
+    "AttackBuffSlowServeUpgrade": {
+        "Value": [
+            {
+                "Reduce": 50,
+                "Value": 20
+            },
+            {
+                "Reduce": 50,
+                "Value": 25
+            },
+            {
+                "Reduce": 50,
+                "Value": 30
+            },
+            {
+                "Reduce": 45,
+                "Value": 30
+            },
+            {
+                "Reduce": 40,
+                "Value": 30
+            },
+            {
+                "Reduce": 35,
+                "Value": 30
+            },
+            {
+                "Reduce": 35,
+                "Value": 35
+            },
+            {
+                "Reduce": 35,
+                "Value": 40
+            },
+            {
+                "Reduce": 30,
+                "Value": 40
+            },
+            {
+                "Reduce": 25,
+                "Value": 40
+            }
+        ]
+    },
+    "StackAttackDownUpgrade": {
+        "Value": [
+            {
+                "Value": 30,
+                "Count": 1
+            },
+            {
+                "Value": 25,
+                "Count": 1
+            },
+            {
+                "Value": 20,
+                "Count": 1
+            },
+            {
+                "Value": 15,
+                "Count": 1
+            },
+            {
+                "Value": 12.5,
+                "Count": 1
+            },
+            {
+                "Value": 10,
+                "Count": 1
+            },
+            {
+                "Value": 7.5,
+                "Count": 1
+            },
+            {
+                "Value": 5,
+                "Count": 1
+            },
+            {
+                "Value": 2.5,
+                "Count": 1
+            },
+            {
+                "Value": 0,
+                "Count": 1
+            }
+        ]
+    },
+    "SingleAttackUpgrade": {
+        "Value": [
+            {
+                "Count": 3,
+                "Value": 20
+            },
+            {
+                "Count": 3,
+                "Value": 30
+            },
+            {
+                "Count": 4,
+                "Value": 40
+            },
+            {
+                "Count": 4,
+                "Value": 50
+            },
+            {
+                "Count": 5,
+                "Value": 60
+            },
+            {
+                "Count": 6,
+                "Value": 70
+            },
+            {
+                "Count": 6,
+                "Value": 80
+            },
+            {
+                "Count": 6,
+                "Value": 90
+            },
+            {
+                "Count": 7,
+                "Value": 100
+            },
+            {
+                "Count": 8,
+                "Value": 100
+            }
+        ]
+    },
+    "RangeServeDownUpgrade": {
+        "Value": [
+            {
+                "Distance": 2,
+                "Value": 200,
+                "Count": 3
+            },
+            {
+                "Distance": 2,
+                "Value": 190,
+                "Count": 3
+            },
+            {
+                "Distance": 2,
+                "Value": 180,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Value": 180,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Value": 170,
+                "Count": 5
+            },
+            {
+                "Distance": 3,
+                "Value": 160,
+                "Count": 5
+            },
+            {
+                "Distance": 3,
+                "Value": 150,
+                "Count": 6
+            },
+            {
+                "Distance": 3,
+                "Value": 140,
+                "Count": 6
+            },
+            {
+                "Distance": 3,
+                "Value": 120,
+                "Count": 7
+            },
+            {
+                "Distance": 3,
+                "Value": 100,
+                "Count": 7
+            }
+        ]
+    },
+    "RangeCookDownUpgrade": {
+        "Value": [
+            {
+                "Distance": 2,
+                "Down": 50,
+                "Count": 3
+            },
+            {
+                "Distance": 2,
+                "Down": 46,
+                "Count": 3
+            },
+            {
+                "Distance": 2,
+                "Down": 44,
+                "Count": 3
+            },
+            {
+                "Distance": 3,
+                "Down": 42,
+                "Count": 3
+            },
+            {
+                "Distance": 3,
+                "Down": 40,
+                "Count": 3
+            },
+            {
+                "Distance": 3,
+                "Down": 38,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Down": 36,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Down": 34,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Down": 32,
+                "Count": 4
+            },
+            {
+                "Distance": 3,
+                "Down": 30,
+                "Count": 4
+            }
+        ]
+    }
+}

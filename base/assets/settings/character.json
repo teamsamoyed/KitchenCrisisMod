@@ -1,0 +1,61 @@
+{
+    "Jobless": {
+        "CookSpeed": 1,
+        "MoveSpeed": 5
+    },
+    "Fastfood": {
+        "CookSpeed": 5,
+        "MoveSpeed": 5,
+        "Value": 70,
+        "Stack": 3,
+        "Attack": 70
+    },
+    "AlphaPlus": {
+        "CookSpeed": 10,
+        "MoveSpeed": 10,
+        "Count": 6
+    },
+    "SmallCook": {
+        "CookSpeed": 3,
+        "MoveSpeed": 3,
+        "Count": 3,
+        "Prob": 20
+    },
+    "Chef": {
+        "CookSpeed": 8,
+        "MoveSpeed": 4,
+        "Value": 3
+    },
+    "CookRobot": {
+        "CookDown": 30,
+        "MoveDown": 0,
+        "CookSpeed": 1,
+        "MoveSpeed": 0,
+        "Value": 5
+    },
+    "HotelChef": {
+        "CookSpeed": 5,
+        "MoveSpeed": 5,
+        "Value": 10
+    },
+    "Scientist": {
+        "CookSpeed": 1,
+        "MoveSpeed": 1,
+        "Value": 30
+    },
+    "Thief": {
+        "CookSpeed": 1,
+        "MoveSpeed": 1,
+        "Value": 40
+    },
+    "Hero": {
+        "CookSpeed": 5,
+        "MoveSpeed": 5,
+        "Value": 20,
+        "EXP": {
+            "A": 150,
+            "P": 2.2,
+            "B": 5000
+        }
+    }
+}

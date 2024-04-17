@@ -1,0 +1,1112 @@
+{ "frames": [
+   {
+    "filename": "alien_route_effect_len2 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 1.aseprite",
+    "frame": { "x": 34, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 2.aseprite",
+    "frame": { "x": 68, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 3.aseprite",
+    "frame": { "x": 102, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 4.aseprite",
+    "frame": { "x": 136, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 5.aseprite",
+    "frame": { "x": 170, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 6.aseprite",
+    "frame": { "x": 204, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 7.aseprite",
+    "frame": { "x": 238, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 8.aseprite",
+    "frame": { "x": 272, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 9.aseprite",
+    "frame": { "x": 0, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 10.aseprite",
+    "frame": { "x": 34, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 11.aseprite",
+    "frame": { "x": 68, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 12.aseprite",
+    "frame": { "x": 102, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 13.aseprite",
+    "frame": { "x": 136, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 14.aseprite",
+    "frame": { "x": 170, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 15.aseprite",
+    "frame": { "x": 204, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 16.aseprite",
+    "frame": { "x": 238, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 17.aseprite",
+    "frame": { "x": 272, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 18.aseprite",
+    "frame": { "x": 0, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 19.aseprite",
+    "frame": { "x": 34, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 20.aseprite",
+    "frame": { "x": 68, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 21.aseprite",
+    "frame": { "x": 102, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 22.aseprite",
+    "frame": { "x": 136, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 23.aseprite",
+    "frame": { "x": 170, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 24.aseprite",
+    "frame": { "x": 204, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 25.aseprite",
+    "frame": { "x": 238, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 26.aseprite",
+    "frame": { "x": 272, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 27.aseprite",
+    "frame": { "x": 0, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 28.aseprite",
+    "frame": { "x": 34, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 29.aseprite",
+    "frame": { "x": 68, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 30.aseprite",
+    "frame": { "x": 102, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 31.aseprite",
+    "frame": { "x": 136, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 32.aseprite",
+    "frame": { "x": 170, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 33.aseprite",
+    "frame": { "x": 204, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 34.aseprite",
+    "frame": { "x": 238, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 35.aseprite",
+    "frame": { "x": 272, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 36.aseprite",
+    "frame": { "x": 0, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 37.aseprite",
+    "frame": { "x": 34, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 38.aseprite",
+    "frame": { "x": 68, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 39.aseprite",
+    "frame": { "x": 102, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 40.aseprite",
+    "frame": { "x": 136, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 41.aseprite",
+    "frame": { "x": 170, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 42.aseprite",
+    "frame": { "x": 204, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 43.aseprite",
+    "frame": { "x": 238, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 44.aseprite",
+    "frame": { "x": 272, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 45.aseprite",
+    "frame": { "x": 204, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 46.aseprite",
+    "frame": { "x": 238, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 47.aseprite",
+    "frame": { "x": 272, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 48.aseprite",
+    "frame": { "x": 0, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 49.aseprite",
+    "frame": { "x": 34, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 50.aseprite",
+    "frame": { "x": 0, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 51.aseprite",
+    "frame": { "x": 34, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 52.aseprite",
+    "frame": { "x": 68, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 53.aseprite",
+    "frame": { "x": 102, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 54.aseprite",
+    "frame": { "x": 136, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 55.aseprite",
+    "frame": { "x": 272, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 56.aseprite",
+    "frame": { "x": 0, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 57.aseprite",
+    "frame": { "x": 34, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 58.aseprite",
+    "frame": { "x": 68, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 59.aseprite",
+    "frame": { "x": 102, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 60.aseprite",
+    "frame": { "x": 170, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 61.aseprite",
+    "frame": { "x": 204, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 62.aseprite",
+    "frame": { "x": 238, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 63.aseprite",
+    "frame": { "x": 272, "y": 85, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 64.aseprite",
+    "frame": { "x": 0, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 65.aseprite",
+    "frame": { "x": 170, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 66.aseprite",
+    "frame": { "x": 204, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 67.aseprite",
+    "frame": { "x": 238, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 68.aseprite",
+    "frame": { "x": 272, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 69.aseprite",
+    "frame": { "x": 0, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 70.aseprite",
+    "frame": { "x": 34, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 71.aseprite",
+    "frame": { "x": 68, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 72.aseprite",
+    "frame": { "x": 102, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 73.aseprite",
+    "frame": { "x": 136, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 74.aseprite",
+    "frame": { "x": 170, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 75.aseprite",
+    "frame": { "x": 238, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 76.aseprite",
+    "frame": { "x": 272, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 77.aseprite",
+    "frame": { "x": 0, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 78.aseprite",
+    "frame": { "x": 34, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 79.aseprite",
+    "frame": { "x": 68, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 80.aseprite",
+    "frame": { "x": 204, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 81.aseprite",
+    "frame": { "x": 238, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 82.aseprite",
+    "frame": { "x": 272, "y": 102, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 83.aseprite",
+    "frame": { "x": 0, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 84.aseprite",
+    "frame": { "x": 34, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 85.aseprite",
+    "frame": { "x": 238, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 86.aseprite",
+    "frame": { "x": 272, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 87.aseprite",
+    "frame": { "x": 0, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 88.aseprite",
+    "frame": { "x": 34, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 89.aseprite",
+    "frame": { "x": 68, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 90.aseprite",
+    "frame": { "x": 68, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 91.aseprite",
+    "frame": { "x": 102, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 92.aseprite",
+    "frame": { "x": 136, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 93.aseprite",
+    "frame": { "x": 170, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 94.aseprite",
+    "frame": { "x": 204, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 95.aseprite",
+    "frame": { "x": 170, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 96.aseprite",
+    "frame": { "x": 204, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 97.aseprite",
+    "frame": { "x": 238, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 98.aseprite",
+    "frame": { "x": 272, "y": 0, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 99.aseprite",
+    "frame": { "x": 0, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 100.aseprite",
+    "frame": { "x": 238, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 101.aseprite",
+    "frame": { "x": 272, "y": 119, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 102.aseprite",
+    "frame": { "x": 0, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 103.aseprite",
+    "frame": { "x": 34, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 104.aseprite",
+    "frame": { "x": 68, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 105.aseprite",
+    "frame": { "x": 272, "y": 51, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 106.aseprite",
+    "frame": { "x": 0, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 107.aseprite",
+    "frame": { "x": 34, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 108.aseprite",
+    "frame": { "x": 68, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 109.aseprite",
+    "frame": { "x": 102, "y": 68, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 110.aseprite",
+    "frame": { "x": 102, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 720
+   },
+   {
+    "filename": "alien_route_effect_len2 111.aseprite",
+    "frame": { "x": 136, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 112.aseprite",
+    "frame": { "x": 170, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 113.aseprite",
+    "frame": { "x": 204, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 114.aseprite",
+    "frame": { "x": 238, "y": 136, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 115.aseprite",
+    "frame": { "x": 204, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 116.aseprite",
+    "frame": { "x": 238, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 117.aseprite",
+    "frame": { "x": 272, "y": 17, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 118.aseprite",
+    "frame": { "x": 0, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   },
+   {
+    "filename": "alien_route_effect_len2 119.aseprite",
+    "frame": { "x": 34, "y": 34, "w": 34, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 17 },
+    "sourceSize": { "w": 34, "h": 17 },
+    "duration": 40
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "route.png",
+  "format": "RGBA8888",
+  "size": { "w": 306, "h": 153 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "dir11", "from": 0, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir00", "from": 10, "to": 19, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir22", "from": 20, "to": 29, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir33", "from": 30, "to": 39, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir10", "from": 40, "to": 49, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir23", "from": 50, "to": 59, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir01", "from": 60, "to": 69, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir32", "from": 70, "to": 79, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir12", "from": 80, "to": 89, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir21", "from": 90, "to": 99, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir03", "from": 100, "to": 109, "direction": "forward", "color": "#000000ff" },
+   { "name": "dir30", "from": 110, "to": 119, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 200, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 150, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 100, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

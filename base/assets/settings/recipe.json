@@ -1,0 +1,2018 @@
+{
+  "Pineapple": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Pineapple",
+    "IsMenu": false
+  },
+  "Laver": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Laver",
+    "IsMenu": false
+  },
+  "Meat": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Meat",
+    "IsMenu": false
+  },
+  "CutMeat": {
+    "Required": [
+      "Meat"
+    ],
+    "Process": "Board",
+    "Result": "CutMeat",
+    "IsMenu": false
+  },
+  "RawMeat": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "RawMeat",
+    "IsMenu": true
+  },
+  "RoastCutMeat": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Pan",
+    "Result": "RoastCutMeat",
+    "IsMenu": false
+  },
+  "Lettuce": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Lettuce",
+    "IsMenu": false
+  },
+  "CutLettuce": {
+    "Required": [
+      "Lettuce"
+    ],
+    "Process": "Board",
+    "Result": "CutLettuce",
+    "IsMenu": false
+  },
+  "Bread": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Bread",
+    "IsMenu": false
+  },
+  "Cheese": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Cheese",
+    "IsMenu": false
+  },
+  "CutCheese": {
+    "Required": [
+      "Cheese"
+    ],
+    "Process": "Board",
+    "Result": "CutCheese",
+    "IsMenu": false
+  },
+  "Tomato": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Tomato",
+    "IsMenu": false
+  },
+  "CutTomato": {
+    "Required": [
+      "Tomato"
+    ],
+    "Process": "Board",
+    "Result": "CutTomato",
+    "IsMenu": false
+  },
+  "Pasta": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Pasta",
+    "IsMenu": false
+  },
+  "BoiledPasta": {
+    "Required": [
+      "Pasta"
+    ],
+    "Process": "Pot",
+    "Result": "BoiledPasta",
+    "IsMenu": false
+  },
+  "Rice": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Rice",
+    "IsMenu": false
+  },
+  "BoiledRice": {
+    "Required": [
+      "Rice"
+    ],
+    "Process": "Pot",
+    "Result": "BoiledRice",
+    "IsMenu": true
+  },
+  "Fish": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Fish",
+    "IsMenu": false
+  },
+  "CutFish": {
+    "Required": [
+      "Fish"
+    ],
+    "Process": "Board",
+    "Result": "CutFish",
+    "IsMenu": false
+  },
+  "Sashimi": {
+    "Required": [
+      "CutFish"
+    ],
+    "Process": "Empty",
+    "Result": "Sashimi",
+    "IsMenu": true
+  },
+  "Potato": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Potato",
+    "IsMenu": false
+  },
+  "CutPotato": {
+    "Required": [
+      "Potato"
+    ],
+    "Process": "Board",
+    "Result": "CutPotato",
+    "IsMenu": false
+  },
+  "FriedPotato": {
+    "Required": [
+      "CutPotato"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedPotato",
+    "IsMenu": true
+  },
+  "Hamburger": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "CutLettuce",
+      "CutTomato",
+      "RoastCutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "Hamburger",
+    "IsMenu": true
+  },
+  "Sushi": {
+    "Required": [
+      "BoiledRice",
+      "CutFish"
+    ],
+    "Process": "Empty",
+    "Result": "Sushi",
+    "IsMenu": true
+  },
+  "Ramen": {
+    "Required": [
+      "BoiledPasta"
+    ],
+    "Process": "Empty",
+    "Result": "Ramen",
+    "IsMenu": true
+  },
+  "CutPineapple": {
+    "Required": [
+      "Pineapple"
+    ],
+    "Process": "Board",
+    "Result": "CutPineapple",
+    "IsMenu": false
+  },
+  "Riceball": {
+    "Required": [
+      "BoiledRice",
+      "Laver"
+    ],
+    "Process": "Empty",
+    "Result": "Riceball",
+    "IsMenu": true
+  },
+  "BoiledMeat": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Pot",
+    "Result": "BoiledMeat",
+    "IsMenu": true
+  },
+  "Chicken": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Chicken",
+    "IsMenu": false
+  },
+  "CutChicken": {
+    "Required": [
+      "Chicken"
+    ],
+    "Process": "Board",
+    "Result": "CutChicken",
+    "IsMenu": false
+  },
+  "RoastChicken": {
+    "Required": [
+      "CutChicken"
+    ],
+    "Process": "Oven",
+    "Result": "RoastChicken",
+    "IsMenu": true
+  },
+  "MeatRamen": {
+    "Required": [
+      "CutMeat",
+      "Laver",
+      "Pasta"
+    ],
+    "Process": "Pot",
+    "Result": "MeatRamen",
+    "IsMenu": true
+  },
+  "Wheat": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Wheat",
+    "IsMenu": false
+  },
+  "DumplingDough": {
+    "Required": [
+      "Wheat"
+    ],
+    "Process": "Board",
+    "Result": "DumplingDough",
+    "IsMenu": false
+  },
+  "Dumpling": {
+    "Required": [
+      "CutLettuce",
+      "CutMeat",
+      "DumplingDough"
+    ],
+    "Process": "Pot",
+    "Result": "Dumpling",
+    "IsMenu": true
+  },
+  "Hotdog": {
+    "Required": [
+      "Bread",
+      "RoastCutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "Hotdog",
+    "IsMenu": true
+  },
+  "TomatoPasta": {
+    "Required": [
+      "BoiledPasta",
+      "CutTomato"
+    ],
+    "Process": "Empty",
+    "Result": "TomatoPasta",
+    "IsMenu": true
+  },
+  "CheeseFriedPotato": {
+    "Required": [
+      "CutCheese",
+      "FriedPotato"
+    ],
+    "Process": "Empty",
+    "Result": "CheeseFriedPotato",
+    "IsMenu": true
+  },
+  "DumplingRamen": {
+    "Required": [
+      "Dumpling",
+      "Pasta"
+    ],
+    "Process": "Pot",
+    "Result": "DumplingRamen",
+    "IsMenu": true
+  },
+  "CheeseBurger": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "RoastCutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "CheeseBurger",
+    "IsMenu": true
+  },
+  "PizzaDough": {
+    "Required": [
+      "Wheat"
+    ],
+    "Process": "Board",
+    "Result": "PizzaDough",
+    "IsMenu": false
+  },
+  "Pizza": {
+    "Required": [
+      "CutCheese",
+      "CutTomato",
+      "PizzaDough"
+    ],
+    "Process": "Oven",
+    "Result": "Pizza",
+    "IsMenu": true
+  },
+  "MeatPizza": {
+    "Required": [
+      "CutCheese",
+      "CutMeat",
+      "CutTomato",
+      "PizzaDough"
+    ],
+    "Process": "Oven",
+    "Result": "MeatPizza",
+    "IsMenu": true
+  },
+  "PineapplePizza": {
+    "Required": [
+      "CutCheese",
+      "CutPineapple",
+      "CutTomato",
+      "PizzaDough"
+    ],
+    "Process": "Oven",
+    "Result": "PineapplePizza",
+    "IsMenu": true
+  },
+  "Salad": {
+    "Required": [
+      "CutLettuce"
+    ],
+    "Process": "Empty",
+    "Result": "Salad",
+    "IsMenu": true
+  },
+  "TomatoSalad": {
+    "Required": [
+      "CutLettuce",
+      "CutTomato"
+    ],
+    "Process": "Empty",
+    "Result": "TomatoSalad",
+    "IsMenu": true
+  },
+  "Sandwitch": {
+    "Required": [
+      "Bread",
+      "CutLettuce",
+      "CutTomato"
+    ],
+    "Process": "Empty",
+    "Result": "Sandwitch",
+    "IsMenu": true
+  },
+  "FriedFish": {
+    "Required": [
+      "CutFish"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedFish",
+    "IsMenu": true
+  },
+  "FishCutlet": {
+    "Required": [
+      "CutLettuce",
+      "FriedFish"
+    ],
+    "Process": "Empty",
+    "Result": "FishCutlet",
+    "IsMenu": true
+  },
+  "ChickenSalad": {
+    "Required": [
+      "CutLettuce",
+      "CutTomato",
+      "RoastChicken"
+    ],
+    "Process": "Empty",
+    "Result": "ChickenSalad",
+    "IsMenu": true
+  },
+  "FishAndChips": {
+    "Required": [
+      "FriedFish",
+      "FriedPotato"
+    ],
+    "Process": "Empty",
+    "Result": "FishAndChips",
+    "IsMenu": true
+  },
+  "PastaSalad": {
+    "Required": [
+      "BoiledPasta",
+      "CutLettuce",
+      "CutTomato",
+      "RoastChicken"
+    ],
+    "Process": "Empty",
+    "Result": "PastaSalad",
+    "IsMenu": true
+  },
+  "FishPlatter": {
+    "Required": [
+      "Sashimi",
+      "Sushi",
+      "FishCutlet"
+    ],
+    "Process": "Empty",
+    "Result": "FishPlatter",
+    "IsMenu": true
+  },
+  "MeatTomatoPasta": {
+    "Required": [
+      "BoiledPasta",
+      "CutTomato",
+      "RoastCutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "MeatTomatoPasta",
+    "IsMenu": true
+  },
+  "ChickenSkewers": {
+    "Required": [
+      "CutChicken",
+      "CutPotato"
+    ],
+    "Process": "Oven",
+    "Result": "ChickenSkewers",
+    "IsMenu": true
+  },
+  "ChickenGratin": {
+    "Required": [
+      "CutCheese",
+      "CutChicken",
+      "CutPotato"
+    ],
+    "Process": "Oven",
+    "Result": "ChickenGratin",
+    "IsMenu": true
+  },
+  "ChickenPie": {
+    "Required": [
+      "CutCheese",
+      "CutChicken",
+      "CutPotato",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "ChickenPie",
+    "IsMenu": true
+  },
+  "ButterChickenCurry": {
+    "Required": [
+      "Butter",
+      "CurryPowder",
+      "CutChicken",
+      "CutPotato",
+      "CutTomato"
+    ],
+    "Process": "Pot",
+    "Result": "ButterChickenCurry",
+    "IsMenu": true
+  },
+  "FriedRice": {
+    "Required": [
+      "BoiledRice",
+      "CutMeat",
+      "CutPotato"
+    ],
+    "Process": "Pan",
+    "Result": "FriedRice",
+    "IsMenu": true
+  },
+  "CurryPowder": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "CurryPowder",
+    "IsMenu": false
+  },
+  "Butter": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Butter",
+    "IsMenu": false
+  },
+  "Shrimp": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Shrimp",
+    "IsMenu": false
+  },
+  "FriedShrimp": {
+    "Required": [
+      "Shrimp"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedShrimp",
+    "IsMenu": true
+  },
+  "ShrimpSushiRoll": {
+    "Required": [
+      "BoiledRice",
+      "FriedShrimp",
+      "Laver"
+    ],
+    "Process": "Empty",
+    "Result": "ShrimpSushiRoll",
+    "IsMenu": true
+  },
+  "SalmonSteak": {
+    "Required": [
+      "CutFish",
+      "CutLettuce",
+      "CutOnion"
+    ],
+    "Process": "Pan",
+    "Result": "SalmonSteak",
+    "IsMenu": true
+  },
+  "FishGratin": {
+    "Required": [
+      "CutCheese",
+      "CutFish",
+      "CutPotato"
+    ],
+    "Process": "Oven",
+    "Result": "FishGratin",
+    "IsMenu": true
+  },
+  "FishSoup": {
+    "Required": [
+      "CutFish",
+      "CutPotato",
+      "CutTomato",
+      "Shrimp"
+    ],
+    "Process": "Pot",
+    "Result": "FishSoup",
+    "IsMenu": true
+  },
+  "FishCurry": {
+    "Required": [
+      "CurryPowder",
+      "CutCarrot",
+      "CutFish",
+      "CutPotato",
+      "CutTomato",
+      "Shrimp"
+    ],
+    "Process": "Pot",
+    "Result": "FishCurry",
+    "IsMenu": true
+  },
+  "Carrot": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Carrot",
+    "IsMenu": false
+  },
+  "CutCarrot": {
+    "Required": [
+      "Carrot"
+    ],
+    "Process": "Board",
+    "Result": "CutCarrot",
+    "IsMenu": false
+  },
+  "Onion": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Onion",
+    "IsMenu": false
+  },
+  "CutOnion": {
+    "Required": [
+      "Onion"
+    ],
+    "Process": "Board",
+    "Result": "CutOnion",
+    "IsMenu": false
+  },
+  "Bulgogi": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Pan",
+    "Result": "Bulgogi",
+    "IsMenu": true
+  },
+  "PorkCutlet": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Fryer",
+    "Result": "PorkCutlet",
+    "IsMenu": true
+  },
+  "Steak": {
+    "Required": [
+      "Meat"
+    ],
+    "Process": "Oven",
+    "Result": "Steak",
+    "IsMenu": true
+  },
+  "MeatBall": {
+    "Required": [
+      "CutMeat",
+      "CutTomato"
+    ],
+    "Process": "Pan",
+    "Result": "MeatBall",
+    "IsMenu": true
+  },
+  "SteakSet": {
+    "Required": [
+      "BoiledRice",
+      "Steak"
+    ],
+    "Process": "Empty",
+    "Result": "SteakSet",
+    "IsMenu": true
+  },
+  "PorkCutletSet": {
+    "Required": [
+      "BoiledRice",
+      "PorkCutlet"
+    ],
+    "Process": "Empty",
+    "Result": "PorkCutletSet",
+    "IsMenu": true
+  },
+  "FriedDumpling": {
+    "Required": [
+      "CutLettuce",
+      "CutMeat",
+      "DumplingDough"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedDumpling",
+    "IsMenu": true
+  },
+  "MeatPie": {
+    "Required": [
+      "CutCheese",
+      "CutMeat",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "MeatPie",
+    "IsMenu": true
+  },
+  "SweetAndSourPork": {
+    "Required": [
+      "CutCarrot",
+      "CutLettuce",
+      "CutPineapple",
+      "FriedPork"
+    ],
+    "Process": "Empty",
+    "Result": "SweetAndSourPork",
+    "IsMenu": true
+  },
+  "FriedPork": {
+    "Required": [
+      "CutMeat"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedPork",
+    "IsMenu": false
+  },
+  "BeefCurry": {
+    "Required": [
+      "CurryPowder",
+      "CutCarrot",
+      "CutMeat",
+      "CutPotato",
+      "CutTomato"
+    ],
+    "Process": "Pot",
+    "Result": "BeefCurry",
+    "IsMenu": true
+  },
+  "BraisedPorkBelly": {
+    "Required": [
+      "BraisedPorkMeat",
+      "CutGarlic",
+      "CutLettuce",
+      "CutOnion",
+      "FriedPotato"
+    ],
+    "Process": "Empty",
+    "Result": "BraisedPorkBelly",
+    "IsMenu": true
+  },
+  "BraisedPorkMeat": {
+    "Required": [
+      "BoiledMeat"
+    ],
+    "Process": "Fryer",
+    "Result": "BraisedPorkMeat",
+    "IsMenu": false
+  },
+  "CombinationPizza": {
+    "Required": [
+      "CutCheese",
+      "CutMeat",
+      "CutMushroom",
+      "CutPotato",
+      "CutTomato",
+      "PizzaDough"
+    ],
+    "Process": "Oven",
+    "Result": "CombinationPizza",
+    "IsMenu": true
+  },
+  "Mushroom": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Mushroom",
+    "IsMenu": false
+  },
+  "CutMushroom": {
+    "Required": [
+      "Mushroom"
+    ],
+    "Process": "Board",
+    "Result": "CutMushroom",
+    "IsMenu": false
+  },
+  "ChickenSausage": {
+    "Required": [
+      "CutChicken"
+    ],
+    "Process": "Pan",
+    "Result": "ChickenSausage",
+    "IsMenu": true
+  },
+  "ChickenBreast": {
+    "Required": [
+      "CutChicken"
+    ],
+    "Process": "Pot",
+    "Result": "ChickenBreast",
+    "IsMenu": true
+  },
+  "FriedChicken": {
+    "Required": [
+      "CutChicken"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedChicken",
+    "IsMenu": true
+  },
+  "ChickenKaraage": {
+    "Required": [
+      "CutLettuce",
+      "FriedChicken"
+    ],
+    "Process": "Empty",
+    "Result": "ChickenKaraage",
+    "IsMenu": true
+  },
+  "Pepper": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Pepper",
+    "IsMenu": false
+  },
+  "CutPepper": {
+    "Required": [
+      "Pepper"
+    ],
+    "Process": "Board",
+    "Result": "CutPepper",
+    "IsMenu": false
+  },
+  "SpicyChickenStirFry": {
+    "Required": [
+      "CutChicken",
+      "CutPepper"
+    ],
+    "Process": "Pan",
+    "Result": "SpicyChickenStirFry",
+    "IsMenu": true
+  },
+  "BoiledChicken": {
+    "Required": [
+      "CutChicken",
+      "CutOnion"
+    ],
+    "Process": "Pot",
+    "Result": "BoiledChicken",
+    "IsMenu": true
+  },
+  "ChickenSet": {
+    "Required": [
+      "FriedChicken",
+      "FriedPotato"
+    ],
+    "Process": "Empty",
+    "Result": "ChickenSet",
+    "IsMenu": true
+  },
+  "KungPaoChicken": {
+    "Required": [
+      "CutChicken",
+      "CutGarlic",
+      "CutOnion",
+      "CutPepper"
+    ],
+    "Process": "Pan",
+    "Result": "KungPaoChicken",
+    "IsMenu": true
+  },
+  "ChickenCurry": {
+    "Required": [
+      "CurryPowder",
+      "CutCheese",
+      "CutChicken"
+    ],
+    "Process": "Pot",
+    "Result": "ChickenCurry",
+    "IsMenu": true
+  },
+  "ChickenBurger": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "CutLettuce",
+      "CutTomato",
+      "FriedChicken"
+    ],
+    "Process": "Empty",
+    "Result": "ChickenBurger",
+    "IsMenu": true
+  },
+  "SpiceyChickenStirFriedRice": {
+    "Required": [
+      "BoiledRice",
+      "CutOnion",
+      "Laver",
+      "SpicyChickenStirFry"
+    ],
+    "Process": "Pan",
+    "Result": "SpiceyChickenStirFriedRice",
+    "IsMenu": true
+  },
+  "ChickenBurgerSet": {
+    "Required": [
+      "ChickenBurger",
+      "FriedPotato"
+    ],
+    "Process": "Empty",
+    "Result": "ChickenBurgerSet",
+    "IsMenu": true
+  },
+  "ChickenUdonStirFry": {
+    "Required": [
+      "BoiledPasta",
+      "Butter",
+      "CutChicken",
+      "CutMushroom",
+      "CutOnion",
+      "CutPepper",
+      "Laver"
+    ],
+    "Process": "Pan",
+    "Result": "ChickenUdonStirFry",
+    "IsMenu": true
+  },
+  "TandooriChicken": {
+    "Required": [
+      "Butter",
+      "CurryPowder",
+      "CutChicken",
+      "CutOnion",
+      "CutPepper",
+      "CutTomato"
+    ],
+    "Process": "Oven",
+    "Result": "TandooriChicken",
+    "IsMenu": true
+  },
+  "WhiteBread": {
+    "Required": [
+      "Bread"
+    ],
+    "Process": "Empty",
+    "Result": "WhiteBread",
+    "IsMenu": true
+  },
+  "Toast": {
+    "Required": [
+      "Bread"
+    ],
+    "Process": "Pan",
+    "Result": "Toast",
+    "IsMenu": true
+  },
+  "FriedBread": {
+    "Required": [
+      "Bread"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedBread",
+    "IsMenu": true
+  },
+  "Baguette": {
+    "Required": [
+      "Bread"
+    ],
+    "Process": "Oven",
+    "Result": "Baguette",
+    "IsMenu": true
+  },
+  "ButterToast": {
+    "Required": [
+      "Bread",
+      "Butter"
+    ],
+    "Process": "Empty",
+    "Result": "ButterToast",
+    "IsMenu": true
+  },
+  "Egg": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Egg",
+    "IsMenu": false
+  },
+  "FrenchToast": {
+    "Required": [
+      "Bread",
+      "Egg"
+    ],
+    "Process": "Pan",
+    "Result": "FrenchToast",
+    "IsMenu": true
+  },
+  "FriedSoboroBread": {
+    "Required": [
+      "Bread",
+      "Butter"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedSoboroBread",
+    "IsMenu": true
+  },
+  "FishCroquette": {
+    "Required": [
+      "Bread",
+      "Fish"
+    ],
+    "Process": "Fryer",
+    "Result": "FishCroquette",
+    "IsMenu": true
+  },
+  "Castella": {
+    "Required": [
+      "Bread",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "Castella",
+    "IsMenu": true
+  },
+  "KatsuSandwich": {
+    "Required": [
+      "Bread",
+      "PorkCutlet"
+    ],
+    "Process": "Empty",
+    "Result": "KatsuSandwich",
+    "IsMenu": true
+  },
+  "PotatoCheeseBread": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "CutPotato"
+    ],
+    "Process": "Oven",
+    "Result": "PotatoCheeseBread",
+    "IsMenu": true
+  },
+  "Menbosha": {
+    "Required": [
+      "Butter",
+      "CutOnion",
+      "Egg",
+      "Shrimp",
+      "WhiteBread"
+    ],
+    "Process": "Fryer",
+    "Result": "Menbosha",
+    "IsMenu": true
+  },
+  "PotatoCheeseEggBread": {
+    "Required": [
+      "Bread",
+      "Butter",
+      "CutCheese",
+      "CutPotato",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "PotatoCheeseEggBread",
+    "IsMenu": true
+  },
+  "CurryCroquette": {
+    "Required": [
+      "Butter",
+      "CurryPowder",
+      "CutOnion",
+      "CutPotato",
+      "Egg",
+      "WhiteBread"
+    ],
+    "Process": "Fryer",
+    "Result": "CurryCroquette",
+    "IsMenu": true
+  },
+  "PizzaBread": {
+    "Required": [
+      "Bread",
+      "Butter",
+      "CutCheese",
+      "CutMeat",
+      "CutMushroom",
+      "CutTomato",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "PizzaBread",
+    "IsMenu": true
+  },
+  "StirFriedUdon": {
+    "Required": [
+      "Laver",
+      "Pasta"
+    ],
+    "Process": "Pan",
+    "Result": "StirFriedUdon",
+    "IsMenu": true
+  },
+  "FriedSpaghetti": {
+    "Required": [
+      "Pasta"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedSpaghetti",
+    "IsMenu": true
+  },
+  "CheeseStirFriedUdon": {
+    "Required": [
+      "CutCheese",
+      "Laver",
+      "Pasta"
+    ],
+    "Process": "Pan",
+    "Result": "CheeseStirFriedUdon",
+    "IsMenu": true
+  },
+  "FriedShrimpUdon": {
+    "Required": [
+      "FriedShrimp",
+      "Laver",
+      "Pasta"
+    ],
+    "Process": "Pot",
+    "Result": "FriedShrimpUdon",
+    "IsMenu": true
+  },
+  "CheeseTomatoPasta": {
+    "Required": [
+      "BoiledPasta",
+      "CutCheese",
+      "CutTomato"
+    ],
+    "Process": "Empty",
+    "Result": "CheeseTomatoPasta",
+    "IsMenu": true
+  },
+  "PadThai": {
+    "Required": [
+      "CutMushroom",
+      "CutOnion",
+      "Egg",
+      "Pasta",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "PadThai",
+    "IsMenu": true
+  },
+  "PorkCutletUdon": {
+    "Required": [
+      "CutMushroom",
+      "Egg",
+      "Laver",
+      "Pasta",
+      "PorkCutlet"
+    ],
+    "Process": "Pot",
+    "Result": "PorkCutletUdon",
+    "IsMenu": true
+  },
+  "CheeseOvenSpaghetti": {
+    "Required": [
+      "CutCheese",
+      "CutOnion",
+      "CutTomato",
+      "Pasta"
+    ],
+    "Process": "Oven",
+    "Result": "CheeseOvenSpaghetti",
+    "IsMenu": true
+  },
+  "CheesePorkCutletUdon": {
+    "Required": [
+      "CutCheese",
+      "CutMushroom",
+      "Egg",
+      "Laver",
+      "Pasta",
+      "PorkCutlet"
+    ],
+    "Process": "Pot",
+    "Result": "CheesePorkCutletUdon",
+    "IsMenu": true
+  },
+  "ChickenOvenSpaghetti": {
+    "Required": [
+      "CutCheese",
+      "CutChicken",
+      "CutOnion",
+      "CutTomato",
+      "Pasta"
+    ],
+    "Process": "Oven",
+    "Result": "ChickenOvenSpaghetti",
+    "IsMenu": true
+  },
+  "SpecialUdon": {
+    "Required": [
+      "CutMushroom",
+      "Egg",
+      "FriedShrimp",
+      "Laver",
+      "Pasta",
+      "PorkCutlet"
+    ],
+    "Process": "Pot",
+    "Result": "SpecialUdon",
+    "IsMenu": true
+  },
+  "BeefBowl": {
+    "Required": [
+      "BoiledRice",
+      "RoastCutMeat"
+    ],
+    "Process": "Empty",
+    "Result": "BeefBowl",
+    "IsMenu": true
+  },
+  "Tendong": {
+    "Required": [
+      "BoiledRice",
+      "FriedShrimp"
+    ],
+    "Process": "Empty",
+    "Result": "Tendong",
+    "IsMenu": true
+  },
+  "CheesePorkCutletSet": {
+    "Required": [
+      "BoiledRice",
+      "CutCheese",
+      "CutLettuce",
+      "Laver",
+      "PorkCutlet"
+    ],
+    "Process": "Empty",
+    "Result": "CheesePorkCutletSet",
+    "IsMenu": true
+  },
+  "CheeseSpiceyChickenStirFriedRice": {
+    "Required": [
+      "BoiledRice",
+      "CutCheese",
+      "CutOnion",
+      "Laver",
+      "SpicyChickenStirFry"
+    ],
+    "Process": "Pan",
+    "Result": "CheeseSpiceyChickenStirFriedRice",
+    "IsMenu": true
+  },
+  "GrilledFish": {
+    "Required": [
+      "Fish"
+    ],
+    "Process": "Pan",
+    "Result": "GrilledFish",
+    "IsMenu": true
+  },
+  "StewedFish": {
+    "Required": [
+      "Fish"
+    ],
+    "Process": "Pot",
+    "Result": "StewedFish",
+    "IsMenu": true
+  },
+  "EelSushi": {
+    "Required": [
+      "BoiledRice",
+      "CutOnion",
+      "GrilledEel",
+      "Laver"
+    ],
+    "Process": "Empty",
+    "Result": "EelSushi",
+    "IsMenu": true
+  },
+  "GrilledEel": {
+    "Required": [
+      "CutFish"
+    ],
+    "Process": "Pan",
+    "Result": "GrilledEel",
+    "IsMenu": false
+  },
+  "MackerelPasta": {
+    "Required": [
+      "BoiledPasta",
+      "CutOnion",
+      "CutPepper",
+      "GrilledEel"
+    ],
+    "Process": "Empty",
+    "Result": "MackerelPasta",
+    "IsMenu": true
+  },
+  "FishCutletSet": {
+    "Required": [
+      "BoiledRice",
+      "CutLettuce",
+      "FriedFish",
+      "Laver"
+    ],
+    "Process": "Empty",
+    "Result": "FishCutletSet",
+    "IsMenu": true
+  },
+  "SalmonBurger": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "CutLettuce",
+      "CutOnion",
+      "CutTomato",
+      "GrilledEel"
+    ],
+    "Process": "Empty",
+    "Result": "SalmonBurger",
+    "IsMenu": true
+  },
+  "RawShrimpSashimi": {
+    "Required": [
+      "Shrimp"
+    ],
+    "Process": "Empty",
+    "Result": "RawShrimpSashimi",
+    "IsMenu": true
+  },
+  "GrilledShrimp": {
+    "Required": [
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "GrilledShrimp",
+    "IsMenu": true
+  },
+  "SteamedShrimp": {
+    "Required": [
+      "Shrimp"
+    ],
+    "Process": "Pot",
+    "Result": "SteamedShrimp",
+    "IsMenu": true
+  },
+  "ShrimpSushi": {
+    "Required": [
+      "BoiledRice",
+      "RawShrimpSashimi"
+    ],
+    "Process": "Empty",
+    "Result": "ShrimpSushi",
+    "IsMenu": true
+  },
+  "ButterGrilledShrimp": {
+    "Required": [
+      "Butter",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "ButterGrilledShrimp",
+    "IsMenu": true
+  },
+  "GambasAlAjillo": {
+    "Required": [
+      "Baguette",
+      "CutGarlic",
+      "CutMushroom",
+      "CutPepper",
+      "RawShrimpSashimi"
+    ],
+    "Process": "Pan",
+    "Result": "GambasAlAjillo",
+    "IsMenu": true
+  },
+  "Garlic": {
+    "Required": [],
+    "Process": "Store",
+    "Result": "Garlic",
+    "IsMenu": false
+  },
+  "CutGarlic": {
+    "Required": [
+      "Garlic"
+    ],
+    "Process": "Board",
+    "Result": "CutGarlic",
+    "IsMenu": false
+  },
+  "ShrimpBurger": {
+    "Required": [
+      "Bread",
+      "CutCheese",
+      "CutLettuce",
+      "CutOnion",
+      "CutTomato",
+      "GrilledShrimp"
+    ],
+    "Process": "Empty",
+    "Result": "ShrimpBurger",
+    "IsMenu": true
+  },
+  "GrilledPotato": {
+    "Required": [
+      "CutPotato"
+    ],
+    "Process": "Pan",
+    "Result": "GrilledPotato",
+    "IsMenu": true
+  },
+  "SteamedPotato": {
+    "Required": [
+      "Potato"
+    ],
+    "Process": "Pot",
+    "Result": "SteamedPotato",
+    "IsMenu": true
+  },
+  "BakedPotato": {
+    "Required": [
+      "Potato"
+    ],
+    "Process": "Oven",
+    "Result": "BakedPotato",
+    "IsMenu": true
+  },
+  "PotatoSalad": {
+    "Required": [
+      "CutLettuce",
+      "GrilledPotato"
+    ],
+    "Process": "Empty",
+    "Result": "PotatoSalad",
+    "IsMenu": true
+  },
+  "Frittata": {
+    "Required": [
+      "CutCheese",
+      "CutPotato",
+      "Egg"
+    ],
+    "Process": "Pan",
+    "Result": "Frittata",
+    "IsMenu": true
+  },
+  "PotatoSoup": {
+    "Required": [
+      "Butter",
+      "CutOnion",
+      "CutPotato"
+    ],
+    "Process": "Pot",
+    "Result": "PotatoSoup",
+    "IsMenu": true
+  },
+  "PotatoCroquette": {
+    "Required": [
+      "Bread",
+      "CutCarrot",
+      "CutPotato",
+      "Egg"
+    ],
+    "Process": "Fryer",
+    "Result": "PotatoCroquette",
+    "IsMenu": true
+  },
+  "SteakFrites": {
+    "Required": [
+      "CutLettuce",
+      "CutOnion",
+      "CutTomato",
+      "FriedPotato",
+      "Steak"
+    ],
+    "Process": "Empty",
+    "Result": "SteakFrites",
+    "IsMenu": true
+  },
+  "SausageFrittata": {
+    "Required": [
+      "CutCarrot",
+      "CutCheese",
+      "CutPotato",
+      "Egg",
+      "RoastCutMeat"
+    ],
+    "Process": "Pan",
+    "Result": "SausageFrittata",
+    "IsMenu": true
+  },
+  "FriedVegetables": {
+    "Required": [
+      "CutCarrot",
+      "CutLettuce",
+      "CutOnion",
+      "CutPepper",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Fryer",
+    "Result": "FriedVegetables",
+    "IsMenu": true
+  },
+  "PotatoPanCake": {
+    "Required": [
+      "CutMushroom",
+      "CutOnion",
+      "CutPotato",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Pan",
+    "Result": "PotatoPanCake",
+    "IsMenu": true
+  },
+  "grilled_pineapple": {
+    "Required": [
+      "CutPineapple"
+    ],
+    "Process": "Pan",
+    "Result": "grilled_pineapple",
+    "IsMenu": true
+  },
+  "pineapple_skewer": {
+    "Required": [
+      "CutCarrot",
+      "CutMushroom",
+      "grilled_pineapple"
+    ],
+    "Process": "Empty",
+    "Result": "pineapple_skewer",
+    "IsMenu": true
+  },
+  "pineapple_scone": {
+    "Required": [
+      "CutPineapple",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "pineapple_scone",
+    "IsMenu": true
+  },
+  "pineapple_fry": {
+    "Required": [
+      "CutPineapple"
+    ],
+    "Process": "Fryer",
+    "Result": "pineapple_fry",
+    "IsMenu": true
+  },
+  "pinapple_fried_rice": {
+    "Required": [
+      "BoiledRice",
+      "CutGarlic",
+      "CutMushroom",
+      "CutPineapple",
+      "Egg",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "pinapple_fried_rice",
+    "IsMenu": true
+  },
+  "shrimp_taco": {
+    "Required": [
+      "CutPineapple",
+      "DumplingDough",
+      "GrilledShrimp"
+    ],
+    "Process": "Empty",
+    "Result": "shrimp_taco",
+    "IsMenu": true
+  },
+  "pineapple_cake": {
+    "Required": [
+      "Bread",
+      "Butter",
+      "CutPineapple",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "pineapple_cake",
+    "IsMenu": true
+  },
+  "pineapple_chicken_curry": {
+    "Required": [
+      "CurryPowder",
+      "CutChicken",
+      "CutPineapple",
+      "CutPotato",
+      "CutTomato"
+    ],
+    "Process": "Pot",
+    "Result": "pineapple_chicken_curry",
+    "IsMenu": true
+  },
+  "pineapple_shrimp_fried_noodle": {
+    "Required": [
+      "CutPineapple",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "pineapple_shrimp_fried_noodle",
+    "IsMenu": true
+  },
+  "pineapple_smoothie": {
+    "Required": [
+      "CutPineapple"
+    ],
+    "Process": "Empty",
+    "Result": "pineapple_smoothie",
+    "IsMenu": true
+  },
+  "pineapple_pancake": {
+    "Required": [
+      "Butter",
+      "CutPineapple",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Pan",
+    "Result": "pineapple_pancake",
+    "IsMenu": true
+  },
+  "pineapple_salad": {
+    "Required": [
+      "CutLettuce",
+      "CutPineapple",
+      "CutTomato"
+    ],
+    "Process": "Empty",
+    "Result": "pineapple_salad",
+    "IsMenu": true
+  },
+  "pineapple_salmon_steak": {
+    "Required": [
+      "CutFish",
+      "CutLettuce",
+      "CutOnion",
+      "CutPineapple"
+    ],
+    "Process": "Pan",
+    "Result": "pineapple_salmon_steak",
+    "IsMenu": true
+  },
+  "carrot_salad": {
+    "Required": [
+      "CutCarrot",
+      "CutLettuce"
+    ],
+    "Process": "Empty",
+    "Result": "carrot_salad",
+    "IsMenu": true
+  },
+  "grilled_carrot": {
+    "Required": [
+      "CutCarrot"
+    ],
+    "Process": "Pan",
+    "Result": "grilled_carrot",
+    "IsMenu": true
+  },
+  "carrot_fry": {
+    "Required": [
+      "CutCarrot"
+    ],
+    "Process": "Fryer",
+    "Result": "carrot_fry",
+    "IsMenu": true
+  },
+  "carrot_smoothie": {
+    "Required": [
+      "CutCarrot"
+    ],
+    "Process": "Empty",
+    "Result": "carrot_smoothie",
+    "IsMenu": true
+  },
+  "carrot_cake": {
+    "Required": [
+      "Bread",
+      "Butter",
+      "CutCarrot",
+      "CutPineapple",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "carrot_cake",
+    "IsMenu": true
+  },
+  "carrot_soup": {
+    "Required": [
+      "CutCarrot",
+      "CutGarlic",
+      "CutOnion"
+    ],
+    "Process": "Pot",
+    "Result": "carrot_soup",
+    "IsMenu": true
+  },
+  "carrot_cookie": {
+    "Required": [
+      "Butter",
+      "CutCarrot",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "carrot_cookie",
+    "IsMenu": true
+  },
+  "carrot_muffin": {
+    "Required": [
+      "Bread",
+      "Butter",
+      "CutCarrot",
+      "Egg"
+    ],
+    "Process": "Oven",
+    "Result": "carrot_muffin",
+    "IsMenu": true
+  },
+  "carrot_pie": {
+    "Required": [
+      "CutCarrot",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "carrot_pie",
+    "IsMenu": true
+  },
+  "spicy_cracker": {
+    "Required": [
+      "Butter",
+      "CutPepper",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "spicy_cracker",
+    "IsMenu": true
+  },
+  "spicy_cheese_french_fries": {
+    "Required": [
+      "CutCheese",
+      "CutPepper",
+      "CutPotato"
+    ],
+    "Process": "Fryer",
+    "Result": "spicy_cheese_french_fries",
+    "IsMenu": true
+  },
+  "garlic_chili_shrimp": {
+    "Required": [
+      "CutGarlic",
+      "CutPepper",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "garlic_chili_shrimp",
+    "IsMenu": true
+  },
+  "egg_in_hell": {
+    "Required": [
+      "CutCheese",
+      "CutGarlic",
+      "CutOnion",
+      "CutPepper",
+      "CutTomato",
+      "Egg"
+    ],
+    "Process": "Pan",
+    "Result": "egg_in_hell",
+    "IsMenu": true
+  },
+  "spicy_fried_noodle": {
+    "Required": [
+      "BoiledPasta",
+      "CutGarlic",
+      "CutPepper"
+    ],
+    "Process": "Pan",
+    "Result": "spicy_fried_noodle",
+    "IsMenu": true
+  },
+  "chili_chicken": {
+    "Required": [
+      "CutChicken",
+      "CutGarlic",
+      "CutPepper"
+    ],
+    "Process": "Fryer",
+    "Result": "chili_chicken",
+    "IsMenu": true
+  },
+  "chili_egg_toast": {
+    "Required": [
+      "Bread",
+      "CutPepper",
+      "Egg"
+    ],
+    "Process": "Pan",
+    "Result": "chili_egg_toast",
+    "IsMenu": true
+  },
+  "pancake": {
+    "Required": [
+      "Butter",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Pan",
+    "Result": "pancake",
+    "IsMenu": true
+  },
+  "cracker": {
+    "Required": [
+      "Butter",
+      "Egg",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "cracker",
+    "IsMenu": true
+  },
+  "nan": {
+    "Required": [
+      "Butter",
+      "CutGarlic",
+      "Wheat"
+    ],
+    "Process": "Pan",
+    "Result": "nan",
+    "IsMenu": true
+  },
+  "spicy_curry": {
+    "Required": [
+      "CurryPowder",
+      "CutPepper"
+    ],
+    "Process": "Pot",
+    "Result": "spicy_curry",
+    "IsMenu": true
+  },
+  "tomato_curry": {
+    "Required": [
+      "CurryPowder",
+      "CutTomato"
+    ],
+    "Process": "Pot",
+    "Result": "tomato_curry",
+    "IsMenu": true
+  },
+  "shrimp_curry": {
+    "Required": [
+      "CurryPowder",
+      "Shrimp"
+    ],
+    "Process": "Pot",
+    "Result": "shrimp_curry",
+    "IsMenu": true
+  },
+  "mushroom_curry": {
+    "Required": [
+      "CurryPowder",
+      "CutMushroom"
+    ],
+    "Process": "Pot",
+    "Result": "mushroom_curry",
+    "IsMenu": true
+  },
+  "curry_noodle": {
+    "Required": [
+      "CurryPowder",
+      "Pasta"
+    ],
+    "Process": "Pot",
+    "Result": "curry_noodle",
+    "IsMenu": true
+  },
+  "vegetable_soup_curry": {
+    "Required": [
+      "CurryPowder",
+      "CutCarrot",
+      "CutGarlic",
+      "CutMushroom",
+      "CutPepper"
+    ],
+    "Process": "Pot",
+    "Result": "vegetable_soup_curry",
+    "IsMenu": true
+  },
+  "curried_rice": {
+    "Required": [
+      "CurryPowder",
+      "CutCarrot",
+      "CutGarlic",
+      "CutOnion",
+      "Rice"
+    ],
+    "Process": "Pot",
+    "Result": "curried_rice",
+    "IsMenu": true
+  },
+  "curry_pasta": {
+    "Required": [
+      "BoiledPasta",
+      "CurryPowder",
+      "CutCarrot"
+    ],
+    "Process": "Pan",
+    "Result": "curry_pasta",
+    "IsMenu": true
+  },
+  "curry_pizza": {
+    "Required": [
+      "CurryPowder",
+      "CutCheese",
+      "CutChicken",
+      "CutMushroom",
+      "CutOnion",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "curry_pizza",
+    "IsMenu": true
+  },
+  "curry_chicken_burger": {
+    "Required": [
+      "Bread",
+      "CurryPowder",
+      "CutCheese",
+      "CutLettuce",
+      "CutOnion",
+      "CutTomato",
+      "FriedChicken"
+    ],
+    "Process": "Empty",
+    "Result": "curry_chicken_burger",
+    "IsMenu": true
+  },
+  "mushroom_pasta": {
+    "Required": [
+      "BoiledPasta",
+      "Butter",
+      "CutGarlic",
+      "CutMushroom"
+    ],
+    "Process": "Pan",
+    "Result": "mushroom_pasta",
+    "IsMenu": true
+  },
+  "mushroom_pizza": {
+    "Required": [
+      "CutCheese",
+      "CutMushroom",
+      "CutOnion",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "mushroom_pizza",
+    "IsMenu": true
+  },
+  "mushroom_soup": {
+    "Required": [
+      "CutGarlic",
+      "CutMushroom"
+    ],
+    "Process": "Pot",
+    "Result": "mushroom_soup",
+    "IsMenu": true
+  },
+  "grilled_mushroom": {
+    "Required": [
+      "CutMushroom"
+    ],
+    "Process": "Pan",
+    "Result": "grilled_mushroom",
+    "IsMenu": true
+  },
+  "mushroom_pie": {
+    "Required": [
+      "CutCarrot",
+      "CutGarlic",
+      "CutMushroom",
+      "Wheat"
+    ],
+    "Process": "Oven",
+    "Result": "mushroom_pie",
+    "IsMenu": true
+  },
+  "garilc_bread": {
+    "Required": [
+      "Bread",
+      "CutGarlic"
+    ],
+    "Process": "Oven",
+    "Result": "garilc_bread",
+    "IsMenu": true
+  },
+  "garilc_shrimp": {
+    "Required": [
+      "CutGarlic",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "garilc_shrimp",
+    "IsMenu": true
+  },
+  "garlic_butter_salmon": {
+    "Required": [
+      "Butter",
+      "CutFish",
+      "CutGarlic"
+    ],
+    "Process": "Pan",
+    "Result": "garlic_butter_salmon",
+    "IsMenu": true
+  },
+  "shrimp_pasta": {
+    "Required": [
+      "BoiledPasta",
+      "CutGarlic",
+      "Shrimp"
+    ],
+    "Process": "Pan",
+    "Result": "shrimp_pasta",
+    "IsMenu": true
+  },
+  "garlic_fry": {
+    "Required": [
+      "CutGarlic"
+    ],
+    "Process": "Fryer",
+    "Result": "garlic_fry",
+    "IsMenu": true
+  }
+}

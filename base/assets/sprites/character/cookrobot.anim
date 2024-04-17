@@ -1,0 +1,620 @@
+{ "frames": [
+   {
+    "filename": "chef_robot 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 1.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 2.aseprite",
+    "frame": { "x": 72, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 240
+   },
+   {
+    "filename": "chef_robot 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 240
+   },
+   {
+    "filename": "chef_robot 4.aseprite",
+    "frame": { "x": 108, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 240
+   },
+   {
+    "filename": "chef_robot 5.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 240
+   },
+   {
+    "filename": "chef_robot 6.aseprite",
+    "frame": { "x": 144, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 7.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 8.aseprite",
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 9.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 10.aseprite",
+    "frame": { "x": 144, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 11.aseprite",
+    "frame": { "x": 0, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 12.aseprite",
+    "frame": { "x": 36, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 13.aseprite",
+    "frame": { "x": 0, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 14.aseprite",
+    "frame": { "x": 72, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 15.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 16.aseprite",
+    "frame": { "x": 144, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 17.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 18.aseprite",
+    "frame": { "x": 72, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 19.aseprite",
+    "frame": { "x": 180, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 20.aseprite",
+    "frame": { "x": 216, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 21.aseprite",
+    "frame": { "x": 180, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 22.aseprite",
+    "frame": { "x": 0, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 23.aseprite",
+    "frame": { "x": 36, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 24.aseprite",
+    "frame": { "x": 72, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 25.aseprite",
+    "frame": { "x": 108, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 26.aseprite",
+    "frame": { "x": 144, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 27.aseprite",
+    "frame": { "x": 180, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_robot 28.aseprite",
+    "frame": { "x": 216, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 29.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 30.aseprite",
+    "frame": { "x": 36, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 31.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 32.aseprite",
+    "frame": { "x": 216, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 33.aseprite",
+    "frame": { "x": 72, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 34.aseprite",
+    "frame": { "x": 108, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 35.aseprite",
+    "frame": { "x": 72, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 36.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 37.aseprite",
+    "frame": { "x": 144, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 38.aseprite",
+    "frame": { "x": 180, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 39.aseprite",
+    "frame": { "x": 144, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 40.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 41.aseprite",
+    "frame": { "x": 216, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 42.aseprite",
+    "frame": { "x": 0, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 43.aseprite",
+    "frame": { "x": 216, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 44.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 45.aseprite",
+    "frame": { "x": 36, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 46.aseprite",
+    "frame": { "x": 72, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 47.aseprite",
+    "frame": { "x": 108, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 48.aseprite",
+    "frame": { "x": 144, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 49.aseprite",
+    "frame": { "x": 180, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_robot 50.aseprite",
+    "frame": { "x": 216, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 51.aseprite",
+    "frame": { "x": 0, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 52.aseprite",
+    "frame": { "x": 36, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 53.aseprite",
+    "frame": { "x": 0, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 54.aseprite",
+    "frame": { "x": 72, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 55.aseprite",
+    "frame": { "x": 108, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 56.aseprite",
+    "frame": { "x": 144, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 57.aseprite",
+    "frame": { "x": 108, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_robot 58.aseprite",
+    "frame": { "x": 180, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_robot 59.aseprite",
+    "frame": { "x": 216, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_robot 60.aseprite",
+    "frame": { "x": 0, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_robot 61.aseprite",
+    "frame": { "x": 36, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_robot 62.aseprite",
+    "frame": { "x": 72, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_robot 63.aseprite",
+    "frame": { "x": 108, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_robot 64.aseprite",
+    "frame": { "x": 144, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.5-x64",
+  "image": "cookrobot.png",
+  "format": "RGBA8888",
+  "size": { "w": 252, "h": 252 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "base", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "base_back", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle", "from": 2, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_back", "from": 4, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "run", "from": 6, "to": 13, "direction": "forward", "color": "#000000ff" },
+   { "name": "run_back", "from": 14, "to": 21, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing", "from": 22, "to": 24, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing_back", "from": 25, "to": 27, "direction": "forward", "color": "#000000ff" },
+   { "name": "working", "from": 28, "to": 35, "direction": "forward", "color": "#000000ff" },
+   { "name": "working_back", "from": 36, "to": 43, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan", "from": 44, "to": 46, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan_back", "from": 47, "to": 49, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting", "from": 50, "to": 53, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting_back", "from": 54, "to": 57, "direction": "forward", "color": "#000000ff" },
+   { "name": "game_over", "from": 58, "to": 58, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 59, "to": 60, "direction": "forward", "color": "#000000ff" },
+   { "name": "cry", "from": 61, "to": 64, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "chef", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

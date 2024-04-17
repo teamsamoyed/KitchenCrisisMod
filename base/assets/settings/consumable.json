@@ -1,0 +1,81 @@
+{
+    "AddGold": {
+        "Value": 20,
+        "Time": 10
+    },
+    "AddFood": {
+        "Value": 4
+    },
+    "Armor": {
+        "Count": 10,
+        "Value": 50
+    },
+    "AttackShare": {
+        "Value": 5,
+        "Time": 10
+    },
+    "AttackUp": {
+        "Value": 30,
+        "Time": 8
+    },
+    "AddCritical": {
+        "Time": 8,
+        "Value": 15
+    },
+    "BreakTime": {
+        "Time": 3
+    },
+    "FeverTime": {
+        "Value": 100,
+        "Time": 5
+    },
+    "FoodBomb": {
+        "Value": 10
+    },
+    "AddFoodMake": {
+        "Time": 25,
+        "Value": 1
+    },
+    "Revisit": {
+        "Value": 7,
+        "Speed": 2
+    },
+    "Slow": {
+        "Value": 30,
+        "Time": 8
+    },
+    "ToolComplete": {
+        "Time": 8
+    },
+    "Stop": {
+        "Time": 5
+    },
+    "MoveSpeedQuest": {
+        "Count": 20,
+        "Value": 30,
+        "Up": 1
+    },
+    "AttackQuest": {
+        "Count": 50,
+        "Value": 25,
+        "Up": 5
+    },
+    "HpQuest": {
+        "Count": 50,
+        "Value": 100,
+        "Up": 40
+    },
+    "ServeSpeedQuest": {
+        "Count": 50,
+        "Value": 25,
+        "Up": 10
+    },
+    "FreeServe": {
+        "Time": 6
+    },
+    "MoneyBox": {
+        "Value": 30,
+        "Limit": 10000,
+        "Get": 15000
+    }
+}

@@ -1,0 +1,1765 @@
+{
+    "Stage0": {
+        "Map": "maps/map0.map",
+        "Private": true,
+        "Index": -1,
+        "Waves": [
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 4
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 11,
+                        "Term": 1.5,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 8,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 6,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 12,
+                        "Term": 1,
+                        "Count": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage1": {
+        "Map": "maps/map1.map",
+        "Private": false,
+        "Index": 0,
+        "Waves": [
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 7,
+                        "Term": 2,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 12,
+                        "Term": 6,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 9
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 12,
+                        "Term": 6,
+                        "Count": 3
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 12
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 28,
+                        "Term": 3,
+                        "Count": 2
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 6,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 20,
+                        "Term": 3,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 26,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 29,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Undead1",
+                        "InTime": 8,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 34,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 9
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 34,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 9
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Golem1",
+                        "InTime": 30,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 34,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 11
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Golem1",
+                        "InTime": 30,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 34,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Angel1",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Golem1",
+                        "InTime": 30,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 34,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 4,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Angel1",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 26,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 29,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 30,
+                        "Term": 4,
+                        "Count": 2
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 6,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Angel1",
+                        "InTime": 25,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 29,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 32,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Slime1",
+                        "InTime": 35,
+                        "Term": 4,
+                        "Count": 2
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Golem1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 6,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Angel1",
+                        "InTime": 25,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 29,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 32,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Golem1",
+                        "InTime": 35,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 38,
+                        "Term": 1,
+                        "Count": 11
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 5,
+                "Customers": [
+                    {
+                        "Name": "Turtle1",
+                        "InTime": 7,
+                        "Term": 4,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "Undead1",
+                        "InTime": 13,
+                        "Term": 6,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Reptile1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Angel1",
+                        "InTime": 25,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Split1",
+                        "InTime": 29,
+                        "Term": 3,
+                        "Count": 4
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 32,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Golem1",
+                        "InTime": 35,
+                        "Term": 4,
+                        "Count": 2
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 38,
+                        "Term": 1,
+                        "Count": 11
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 5,
+                "Customers": [
+                    {
+                        "Name": "OgreBoss1",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage2": {
+        "Map": "maps/map2.map",
+        "Private": false,
+        "Index": 1,
+        "Waves": [
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 5,
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage3": {
+        "Map": "maps/map3.map",
+        "Private": false,
+        "Index": 2,
+        "Waves": [
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 5,
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage4": {
+        "Map": "maps/map4.map",
+        "Private": false,
+        "Index": 3,
+        "Waves": [
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 1,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 2,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 1,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 3,
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 2,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 4,
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "ReceipeTierMin": 3,
+                "ReceipeTierMax": 5,
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

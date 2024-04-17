@@ -1,0 +1,1455 @@
+{
+    "Stage0": {
+        "Map": "maps/map0.map",
+        "Private": true,
+        "Index": -1,
+        "Waves": [
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 8,
+                        "Term": 4,
+                        "Count": 4
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 11,
+                        "Term": 4,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 8,
+                        "Term": 3,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 17,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 6,
+                        "Term": 1,
+                        "Count": 1
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 12,
+                        "Term": 3,
+                        "Count": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage1": {
+        "Map": "maps/map1.map",
+        "Private": false,
+        "Index": 0,
+        "Waves": [
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 2.5,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1.5,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 15
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 15
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 20
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 12
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 14
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 16
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 20,
+                        "Term": 0.2,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 15,
+                        "Term": 0.5,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 5,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 10,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 1,
+                        "Term": 0.2,
+                        "Count": 80
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 20
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 15
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 15
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 1,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 10,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 0.5,
+                        "Count": 30
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 3,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 5,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 10,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 10,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 20,
+                        "Term": 0.7,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 8,
+                        "Term": 0.7,
+                        "Count": 30
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 5,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 5,
+                        "Term": 0.7,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 0.8,
+                        "Count": 30
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 10,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 10,
+                        "Term": 0.5,
+                        "Count": 15
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 1,
+                        "Term": 3,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 30,
+                        "Term": 0.2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 8,
+                        "Term": 0.7,
+                        "Count": 40
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 30,
+                        "Term": 0.2,
+                        "Count": 20
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 3,
+                        "Term": 2,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 15
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 15,
+                        "Term": 0.2,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 30,
+                        "Term": 0.2,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "4Leg1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Ogre1",
+                        "InTime": 2,
+                        "Term": 1,
+                        "Count": 20
+                    },
+                    {
+                        "Name": "Mosquito1",
+                        "InTime": 2,
+                        "Term": 0.2,
+                        "Count": 20
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "OgreBoss1",
+                        "InTime": 10,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage2": {
+        "Map": "maps/map2.map",
+        "Private": false,
+        "Index": 1,
+        "Waves": [
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage3": {
+        "Map": "maps/map3.map",
+        "Private": false,
+        "Index": 2,
+        "Waves": [
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "Stage4": {
+        "Map": "maps/map4.map",
+        "Private": false,
+        "Index": 3,
+        "Waves": [
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 7,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster1",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster1",
+                        "InTime": 15,
+                        "Term": 1,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 13,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 5
+                    },
+                    {
+                        "Name": "Monster2",
+                        "InTime": 27,
+                        "Term": 1,
+                        "Count": 5
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster2",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 20,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 30,
+                        "Term": 1,
+                        "Count": 7
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    }
+                ]
+            },
+            {
+                "IsRelicWave": true,
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 24,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss2",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster3",
+                        "InTime": 5,
+                        "Term": 1,
+                        "Count": 10
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 24,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 30,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Monster5",
+                        "InTime": 8,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 18,
+                        "Term": 0.5,
+                        "Count": 8
+                    },
+                    {
+                        "Name": "Monster3",
+                        "InTime": 22,
+                        "Term": 1,
+                        "Count": 7
+                    },
+                    {
+                        "Name": "Monster5",
+                        "InTime": 30,
+                        "Term": 2,
+                        "Count": 6
+                    },
+                    {
+                        "Name": "Monster4",
+                        "InTime": 35,
+                        "Term": 0.5,
+                        "Count": 8
+                    }
+                ]
+            },
+            {
+                "Customers": [
+                    {
+                        "Name": "Boss4",
+                        "InTime": 14,
+                        "Term": 1,
+                        "Count": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

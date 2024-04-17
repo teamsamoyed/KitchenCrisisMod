@@ -1,0 +1,56 @@
+{ "frames": [
+   {
+    "filename": "tile_cursor_hover_animation 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 38, "h": 22 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 22 },
+    "sourceSize": { "w": 38, "h": 22 },
+    "duration": 300
+   },
+   {
+    "filename": "tile_cursor_hover_animation 1.aseprite",
+    "frame": { "x": 38, "y": 0, "w": 38, "h": 22 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 22 },
+    "sourceSize": { "w": 38, "h": 22 },
+    "duration": 200
+   },
+   {
+    "filename": "tile_cursor_hover_animation 2.aseprite",
+    "frame": { "x": 0, "y": 22, "w": 38, "h": 22 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 22 },
+    "sourceSize": { "w": 38, "h": 22 },
+    "duration": 300
+   },
+   {
+    "filename": "tile_cursor_hover_animation 3.aseprite",
+    "frame": { "x": 38, "y": 22, "w": 38, "h": 22 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 22 },
+    "sourceSize": { "w": 38, "h": 22 },
+    "duration": 200
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.5-x64",
+  "image": "tile_cursor.png",
+  "format": "RGBA8888",
+  "size": { "w": 76, "h": 44 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "top", "from": 0, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "bottom", "from": 2, "to": 3, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "base", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

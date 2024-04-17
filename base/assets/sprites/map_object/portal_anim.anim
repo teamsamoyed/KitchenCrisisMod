@@ -1,0 +1,112 @@
+{ "frames": [
+   {
+    "filename": "portal_animations 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 100
+   },
+   {
+    "filename": "portal_animations 1.aseprite",
+    "frame": { "x": 22, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 100
+   },
+   {
+    "filename": "portal_animations 2.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 3.aseprite",
+    "frame": { "x": 66, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 4.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 5.aseprite",
+    "frame": { "x": 110, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 6.aseprite",
+    "frame": { "x": 132, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 7.aseprite",
+    "frame": { "x": 154, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 8.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   },
+   {
+    "filename": "portal_animations 9.aseprite",
+    "frame": { "x": 198, "y": 0, "w": 22, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 28 },
+    "sourceSize": { "w": 22, "h": 28 },
+    "duration": 200
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-rc4-x64",
+  "image": "portal.png",
+  "format": "RGBA8888",
+  "size": { "w": 220, "h": 28 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "base_normal", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "base_main", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_normal", "from": 2, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_main", "from": 6, "to": 9, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

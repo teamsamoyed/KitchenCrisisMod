@@ -1,0 +1,94 @@
+{ "frames": [
+   {
+    "filename": "desk_full_animation 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 200
+   },
+   {
+    "filename": "desk_full_animation 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 200
+   },
+   {
+    "filename": "desk_full_animation 2.aseprite",
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 200
+   },
+   {
+    "filename": "desk_full_animation 3.aseprite",
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "desk_full_animation 4.aseprite",
+    "frame": { "x": 56, "y": 0, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "desk_full_animation 5.aseprite",
+    "frame": { "x": 0, "y": 25, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 200
+   },
+   {
+    "filename": "desk_full_animation 6.aseprite",
+    "frame": { "x": 28, "y": 25, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "desk_full_animation 7.aseprite",
+    "frame": { "x": 56, "y": 25, "w": 28, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 25 },
+    "sourceSize": { "w": 28, "h": 25 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "empty_max_anim.png",
+  "format": "RGBA8888",
+  "size": { "w": 84, "h": 50 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "normal", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "press", "from": 3, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "shoot", "from": 6, "to": 7, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "spring", "opacity": 255, "blendMode": "normal" },
+   { "name": "desk", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

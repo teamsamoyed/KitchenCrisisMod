@@ -1,0 +1,658 @@
+{ "frames": [
+   {
+    "filename": "chef_scientist 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 1.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 2.aseprite",
+    "frame": { "x": 72, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 4.aseprite",
+    "frame": { "x": 108, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 5.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 6.aseprite",
+    "frame": { "x": 144, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 7.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 8.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 9.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 10.aseprite",
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 11.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 12.aseprite",
+    "frame": { "x": 0, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 13.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 14.aseprite",
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 15.aseprite",
+    "frame": { "x": 36, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 16.aseprite",
+    "frame": { "x": 72, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 17.aseprite",
+    "frame": { "x": 36, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 18.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 19.aseprite",
+    "frame": { "x": 144, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 20.aseprite",
+    "frame": { "x": 180, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 21.aseprite",
+    "frame": { "x": 144, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 22.aseprite",
+    "frame": { "x": 108, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 23.aseprite",
+    "frame": { "x": 216, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 24.aseprite",
+    "frame": { "x": 252, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 25.aseprite",
+    "frame": { "x": 216, "y": 36, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 26.aseprite",
+    "frame": { "x": 0, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 27.aseprite",
+    "frame": { "x": 36, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 28.aseprite",
+    "frame": { "x": 72, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 29.aseprite",
+    "frame": { "x": 108, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 30.aseprite",
+    "frame": { "x": 144, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 31.aseprite",
+    "frame": { "x": 180, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 140
+   },
+   {
+    "filename": "chef_scientist 32.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 33.aseprite",
+    "frame": { "x": 216, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 34.aseprite",
+    "frame": { "x": 252, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 35.aseprite",
+    "frame": { "x": 216, "y": 72, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 36.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 37.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 38.aseprite",
+    "frame": { "x": 36, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 39.aseprite",
+    "frame": { "x": 0, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 40.aseprite",
+    "frame": { "x": 72, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 41.aseprite",
+    "frame": { "x": 108, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 42.aseprite",
+    "frame": { "x": 144, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 43.aseprite",
+    "frame": { "x": 108, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 44.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 45.aseprite",
+    "frame": { "x": 180, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 46.aseprite",
+    "frame": { "x": 216, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 47.aseprite",
+    "frame": { "x": 180, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 48.aseprite",
+    "frame": { "x": 252, "y": 108, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 49.aseprite",
+    "frame": { "x": 0, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 50.aseprite",
+    "frame": { "x": 36, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 51.aseprite",
+    "frame": { "x": 72, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 52.aseprite",
+    "frame": { "x": 108, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 53.aseprite",
+    "frame": { "x": 144, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 120
+   },
+   {
+    "filename": "chef_scientist 54.aseprite",
+    "frame": { "x": 180, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 55.aseprite",
+    "frame": { "x": 216, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 56.aseprite",
+    "frame": { "x": 252, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 57.aseprite",
+    "frame": { "x": 216, "y": 144, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 58.aseprite",
+    "frame": { "x": 0, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 59.aseprite",
+    "frame": { "x": 36, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 60.aseprite",
+    "frame": { "x": 72, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 61.aseprite",
+    "frame": { "x": 36, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 200
+   },
+   {
+    "filename": "chef_scientist 62.aseprite",
+    "frame": { "x": 108, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 100
+   },
+   {
+    "filename": "chef_scientist 63.aseprite",
+    "frame": { "x": 144, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_scientist 64.aseprite",
+    "frame": { "x": 180, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_scientist 65.aseprite",
+    "frame": { "x": 216, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_scientist 66.aseprite",
+    "frame": { "x": 252, "y": 180, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_scientist 67.aseprite",
+    "frame": { "x": 0, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   },
+   {
+    "filename": "chef_scientist 68.aseprite",
+    "frame": { "x": 36, "y": 216, "w": 36, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+    "sourceSize": { "w": 36, "h": 36 },
+    "duration": 150
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.5-x64",
+  "image": "scientist.png",
+  "format": "RGBA8888",
+  "size": { "w": 288, "h": 252 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "base", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "base_back", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle", "from": 2, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_back", "from": 6, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "run", "from": 10, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "run_back", "from": 18, "to": 25, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing", "from": 26, "to": 28, "direction": "forward", "color": "#000000ff" },
+   { "name": "slicing_back", "from": 29, "to": 31, "direction": "forward", "color": "#000000ff" },
+   { "name": "working", "from": 32, "to": 39, "direction": "forward", "color": "#000000ff" },
+   { "name": "working_back", "from": 40, "to": 47, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan", "from": 48, "to": 50, "direction": "forward", "color": "#000000ff" },
+   { "name": "pan_back", "from": 51, "to": 53, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting", "from": 54, "to": 57, "direction": "forward", "color": "#000000ff" },
+   { "name": "cook_waiting_back", "from": 58, "to": 61, "direction": "forward", "color": "#000000ff" },
+   { "name": "game_over", "from": 62, "to": 62, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 63, "to": 64, "direction": "forward", "color": "#000000ff" },
+   { "name": "cry", "from": 65, "to": 68, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "chef", "opacity": 255, "blendMode": "normal" },
+   { "name": "tool", "opacity": 255, "blendMode": "normal" },
+   { "name": "effect", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

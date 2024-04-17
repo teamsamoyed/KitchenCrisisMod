@@ -1,0 +1,81 @@
+{
+    "IngredientAttackUpRelic": {
+        "Up": 20,
+        "Prob": 1
+    },
+    "IngredientServeSpeedUpRelic": {
+        "Up": 40,
+        "Prob": 1
+    },
+    "WorkerMoveUpRelic": {
+        "Up": 3,
+        "Prob": 1
+    },
+    "WorkerCookUpRelic": {
+        "Up": 3,
+        "Prob": 1
+    },
+    "WaitUpRelic": {
+        "Value": 10,
+        "Prob": 1
+    },
+    "PriceUpRelic": {
+        "Value": 15,
+        "Prob": 1
+    },
+    "HpCutRelic": {
+        "Value": 10,
+        "Prob": 1
+    },
+    "UpgradeCostDownRelic": {
+        "Value": 10,
+        "Prob": 1
+    },
+    "UpgradeRelic": {
+        "Prob": 1,
+        "Value": 6
+    },
+    "RollRelic": {
+        "Prob": 1,
+        "Value": 1
+    },
+    "CookSpeedUpRelic": {
+        "Prob": 1,
+        "Value": 0.6
+    },
+    "DamageDownRelic": {
+        "Prob": 1,
+        "Value": 30
+    },
+    "ReviveRelic": {
+        "Prob": 1
+    },
+    "AddEmployeeRelic": {
+        "Prob": 1,
+        "Value": 3
+    },
+    "RecoverHpRelic": {
+        "Prob": 1,
+        "Value": 5
+    },
+    "JumpMoveRelic": {
+        "Prob": 1
+    },
+    "RandomCostRelic": {
+        "Prob": 1,
+        "Down": -20,
+        "Up": 10
+    },
+    "AttackUpRelic": {
+        "Prob": 1,
+        "Value": 30
+    },
+    "TotalStoreRelic": {
+        "Prob": 1,
+        "Value": 5
+    },
+    "TotalToolRelic": {
+        "Prob": 1,
+        "Value": 5
+    }
+}
